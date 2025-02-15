@@ -1,0 +1,16 @@
+[
+  {
+    "title": "গেম বক্স",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "গেমের বাক্স",
+    "visible": true
+  },
+  {
+    "title": "সুপার স্কুইরেল ব্লাস্টার",
+    "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739600368137-igd9xs.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover",
+    "url": "/games/super-squirrel-blaster",
+    "category": "অ্যাডভেঞ্চার",
+    "visible": true
+  }
+]

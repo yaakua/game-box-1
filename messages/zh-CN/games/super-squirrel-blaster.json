@@ -1,0 +1,77 @@
+{
+  "super-squirrel-blaster": {
+    "title": "超级松鼠发射器",
+    "slogan": "纵横森林冒险之旅！",
+    "description": "《超级松鼠发射器》是一款节奏快速的街机游戏，精准的时机至关重要！在令人兴奋的关卡中穿梭，躲避讨厌的敌人，避免撞到树木，探索充满动作的森林冒险。你能否掌握完美的射击技巧，征服这片丛林？(Super Squirrel Blaster)",
+    "Loading": {
+      "title": "正在加载超级松鼠发射器..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "超级松鼠发射器",
+      "description": "《超级松鼠发射器》是一款精彩的技巧游戏，您可以在CrazyGames上免费直接在浏览器中玩。游戏采用HTML5构建，可在大多数浏览器中流畅运行。《超级松鼠发射器》支持全屏模式。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "超级松鼠发射器",
+      "whatIsTitle": "超级松鼠发射器是什么？",
+      "whatIsDescription": "《超级松鼠发射器》是一款节奏快速的街机游戏，精准的时机至关重要！在令人兴奋的关卡中穿梭，躲避讨厌的敌人，避免撞到树木，探索充满动作的森林冒险。",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "使用鼠标左键或空格键发射。",
+      "howToPlayStep2": "在移动设备上点击屏幕发射。",
+      "howToPlayStep3": "掌握完美的射击技巧，征服这片丛林！",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "快速节奏的动作",
+      "feature1Description": "在《超级松鼠发射器》中体验令人兴奋的快速游戏。",
+      "feature2Title": "精准的时机",
+      "feature2Description": "掌握精准的时机，在各个关卡中穿梭。",
+      "feature3Title": "森林冒险",
+      "feature3Description": "探索充满挑战的充满动作的森林环境。",
+      "feature4Title": "全屏模式",
+      "feature4Description": "以全屏模式体验《超级松鼠发射器》的沉浸式体验。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐游戏"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "游戏分类",
+      "noCategories": "未找到游戏分类",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

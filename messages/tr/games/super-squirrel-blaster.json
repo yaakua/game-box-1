@@ -1,0 +1,77 @@
+{
+  "super-squirrel-blaster": {
+    "title": "Süper Sincap Patlatıcı",
+    "slogan": "Orman macerasında patlatarak ilerleyin!",
+    "description": "Süper Sincap Patlatıcı, hassas zamanlamanın kilit rol oynadığı hızlı tempolu bir arcade oyunudur! Heyecan verici seviyelerde yol alırken, rahatsız edici düşmanlardan sakının ve bu aksiyon dolu orman macerasında ağaçlara vurmaktan kaçının. Mükemmel atışı ustalaştırabilir ve vahşeti fethederseniz?",
+    "Loading": {
+      "title": "Süper Sincap Patlatıcı Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Zamanı",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Süper Sincap Patlatıcı",
+      "description": "Süper Sincap Patlatıcı, CrazyGames'te tarayıcınızda doğrudan ücretsiz olarak oynayabileceğiniz harika bir beceri oyunudur. Oyun, çoğu tarayıcıda sorunsuz çalışmak üzere HTML5 ile oluşturulmuştur. Süper Sincap Patlatıcı tam ekran modunda oynanabilir.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Süper Sincap Patlatıcı",
+      "whatIsTitle": "Süper Sincap Patlatıcı Nedir?",
+      "whatIsDescription": "Süper Sincap Patlatıcı, hassas zamanlamanın kilit rol oynadığı hızlı tempolu bir arcade oyunudur! Heyecan verici seviyelerde yol alırken, rahatsız edici düşmanlardan sakının ve bu aksiyon dolu orman macerasında ağaçlara vurmaktan kaçının.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Patlatmak için sol fare düğmesini veya boşluk çubuğunu kullanın.",
+      "howToPlayStep2": "Mobil cihazlarda patlatmak için ekrana dokunun.",
+      "howToPlayStep3": "Vahşeti fethetmek için mükemmel atışı ustalaşın!",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Hızlı Tempolu Eylem",
+      "feature1Description": "Süper Sincap Patlatıcı'da heyecan verici, yüksek hızlı oyun deneyimine sahip olun.",
+      "feature2Title": "Kesin Zamanlama",
+      "feature2Description": "Seviyelerde yol almak için kesin zamanlama sanatına hakim olun.",
+      "feature3Title": "Orman Macerası",
+      "feature3Description": "Çeşitli zorluklarla dolu aksiyon dolu bir orman ortamını keşfedin.",
+      "feature4Title": "Tam Ekran Modu",
+      "feature4Description": "Süper Sincap Patlatıcı'yı tam ekran modunda oynayarak sürükleyici bir deneyim yaşayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Hiç kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

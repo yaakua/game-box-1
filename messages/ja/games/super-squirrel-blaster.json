@@ -1,0 +1,77 @@
+{
+  "super-squirrel-blaster": {
+    "title": "スーパー・リス・ブラスター",
+    "slogan": "森の冒険を爆発しろ！",
+    "description": "スーパー・リス・ブラスターは、正確なタイミングが重要な、テンポの速いアーケードゲームです！エキサイティングなレベルを突破し、厄介な敵をかわし、このアクション満載の森の冒険で木に頭をぶつけないようにしましょう。完璧なショットをマスターして、荒野を征服できますか？(Super Squirrel Blaster )",
+    "Loading": {
+      "title": "スーパー・リス・ブラスターを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "スーパー・リス・ブラスター",
+      "description": "スーパー・リス・ブラスターは、CrazyGamesでブラウザ上で直接無料でプレイできる素晴らしいスキルゲームです。このゲームはHTML5で構築されているため、ほとんどのブラウザで問題なく動作します。スーパー・リス・ブラスターはフルスクリーンモードでプレイできます。(Super Squirrel Blaster )",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スーパー・リス・ブラスター",
+      "whatIsTitle": "スーパー・リス・ブラスターとは？",
+      "whatIsDescription": "スーパー・リス・ブラスターは、正確なタイミングが重要な、テンポの速いアーケードゲームです！エキサイティングなレベルを突破し、厄介な敵をかわし、このアクション満載の森の冒険で木に頭をぶつけないようにしましょう。(Super Squirrel Blaster )",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "左マウスボタンまたはスペースキーで爆発させます。",
+      "howToPlayStep2": "モバイルデバイスでは画面をタップして爆発させます。",
+      "howToPlayStep3": "完璧なショットをマスターして、荒野を征服しましょう！",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "テンポの速いアクション",
+      "feature1Description": "スーパー・リス・ブラスターでスリリングで高速なゲームプレイを体験してください。",
+      "feature2Title": "正確なタイミング",
+      "feature2Description": "レベルを進むために正確なタイミングの技術をマスターしてください。",
+      "feature3Title": "森の冒険",
+      "feature3Description": "挑戦に満ちたアクション満載の森の環境を探検してください。",
+      "feature4Title": "フルスクリーンモード",
+      "feature4Description": "スーパー・リス・ブラスターをフルスクリーンでプレイして、没入型の体験を味わってください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "コメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

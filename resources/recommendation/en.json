@@ -1,3 +1,18 @@
 [
-  
+  {
+    "title": "Game Box",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "",
+    "visible": true,
+    "position": "all"
+  },
+  {
+    "title": "Super Squirrel Blaster ",
+    "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739600368137-igd9xs.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover",
+    "url": "/games/super-squirrel-blaster",
+    "category": "",
+    "visible": true,
+    "position": "all"
+  }
 ]

@@ -1,0 +1,77 @@
+{
+  "super-squirrel-blaster": {
+    "title": "Super Squirrel Blaster",
+    "slogan": "Exploda pela aventura na floresta!",
+    "description": "Super Squirrel Blaster é um jogo arcade frenético onde o tempo preciso é fundamental! Exploda por níveis empolgantes, evite inimigos desagradáveis e evite bater a cabeça nas árvores enquanto navega por esta aventura na floresta repleta de ação. Será que você domina o tiro perfeito e conquista a natureza selvagem?(Super Squirrel Blaster)",
+    "Loading": {
+      "title": "Carregando Super Squirrel Blaster..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Super Squirrel Blaster",
+      "description": "Super Squirrel Blaster é um jogo de habilidade fantástico que você pode jogar aqui no CrazyGames diretamente no seu navegador, gratuitamente. O jogo foi desenvolvido com HTML5 para funcionar sem problemas na maioria dos navegadores. Super Squirrel Blaster pode ser jogado em tela cheia.(Super Squirrel Blaster)",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Super Squirrel Blaster",
+      "whatIsTitle": "O que é Super Squirrel Blaster?",
+      "whatIsDescription": "Super Squirrel Blaster é um jogo arcade frenético onde o tempo preciso é fundamental! Exploda por níveis empolgantes, evite inimigos desagradáveis e evite bater a cabeça nas árvores enquanto navega por esta aventura na floresta repleta de ação.(Super Squirrel Blaster)",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Use o botão esquerdo do mouse ou a barra de espaço para explodir.",
+      "howToPlayStep2": "Toque na tela para explodir em dispositivos móveis.",
+      "howToPlayStep3": "Domine o tiro perfeito para conquistar a natureza selvagem!",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Ação Frenética",
+      "feature1Description": "Experimente jogabilidade emocionante e de alta velocidade em Super Squirrel Blaster.",
+      "feature2Title": "Tempo Preciso",
+      "feature2Description": "Domine a arte do tempo preciso para navegar pelos níveis.",
+      "feature3Title": "Aventura na Floresta",
+      "feature3Description": "Explore um ambiente na floresta repleto de ação e desafios.",
+      "feature4Title": "Modo Tela Cheia",
+      "feature4Description": "Jogue Super Squirrel Blaster em tela cheia para uma experiência imersiva."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

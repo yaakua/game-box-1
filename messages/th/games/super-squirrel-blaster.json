@@ -1,0 +1,77 @@
+{
+  "super-squirrel-blaster": {
+    "title": "ซูเปอร์สกอร์เรลเบลสเตอร์ (Super Squirrel Blaster)",
+    "slogan": "ระเบิดผ่านการผจญภัยในป่า! (Blast through the forest adventure!)",
+    "description": "ซูเปอร์สกอร์เรลเบลสเตอร์ (Super Squirrel Blaster) เป็นเกมอาร์เคดที่ต้องใช้เวลาในการเล่นอย่างแม่นยำ!  ระเบิดผ่านด่านที่น่าตื่นเต้น หลบหลีกศัตรูที่น่ารำคาญ และหลีกเลี่ยงการกระแทกหัวกับต้นไม้ขณะที่คุณสำรวจการผจญภัยในป่าแอ็คชั่นนี้ คุณสามารถฝึกฝนการยิงที่สมบูรณ์แบบและพิชิตป่าได้หรือไม่? (Super Squirrel Blaster is a fast-paced arcade game where precise timing is key! Blast through exciting levels, dodge pesky enemies and avoid bonking your head on trees as you navigate this action-packed forest adventure. Can you master the perfect shot and conquer the wild?)",
+    "Loading": {
+      "title": "กำลังโหลด ซูเปอร์สกอร์เรลเบลสเตอร์... (Loading Super Squirrel Blaster...)"
+    },
+    "Navbar": {
+      "title": "นำทาง (Nav)"
+    },
+    "Common": {
+      "createAt": "สร้างที่ (Create At)",
+      "guide": "คู่มือ (Guide)",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว (Privacy Policy)",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ (Terms of Services)",
+      "text": "เนื้อหา (Content)",
+      "help": "ความช่วยเหลือ (Help)",
+      "friendlyLinks": "ลิงก์มิตรภาพ (Friendly Links)",
+      "articleList": "รายการบทความ (Article List)",
+      "home": "หน้าแรก (Home)",
+      "next": "ถัดไป (Next)",
+      "previous": "ก่อนหน้า (Previous)"
+    },
+    "HomeIframe": {
+      "title": "ซูเปอร์สกอร์เรลเบลสเตอร์ (Super Squirrel Blaster)",
+      "description": "ซูเปอร์สกอร์เรลเบลสเตอร์ (Super Squirrel Blaster) เป็นเกมฝึกฝนทักษะที่ยอดเยี่ยม คุณสามารถเล่นได้ฟรีบน CrazyGames โดยตรงในเบราว์เซอร์ของคุณ เกมนี้สร้างขึ้นด้วย HTML5 เพื่อให้สามารถเล่นได้อย่างราบรื่นในเบราว์เซอร์ส่วนใหญ่ ซูเปอร์สกอร์เรลเบลสเตอร์ (Super Squirrel Blaster) สามารถเล่นได้ในโหมดเต็มหน้าจอ (Super Squirrel Blaster is a fantastic skill game that you can play here on CrazyGames directly in your browser, free of charge. The game is built with HTML5 to run without trouble in most browsers. Super Squirrel Blaster is playable in fullscreen mode.)",
+      "iframeTitle": "ตัวอย่างเกม (Game Preview)",
+      "fullscreenButton": "เต็มหน้าจอ (Fullscreen)",
+      "shareButton": "แชร์ (Share)",
+      "urlCopied": "URL คัดลอกไปยังคลิปบอร์ดแล้ว! (URL copied to clipboard!)",
+      "downloadGame": "ดาวน์โหลดเกม (Download Game)",
+      "playGame": "เล่นเกม (Play Game)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ซูเปอร์สกอร์เรลเบลสเตอร์ (Super Squirrel Blaster)",
+      "whatIsTitle": "ซูเปอร์สกอร์เรลเบลสเตอร์คืออะไร? (What is Super Squirrel Blaster?)",
+      "whatIsDescription": "ซูเปอร์สกอร์เรลเบลสเตอร์ (Super Squirrel Blaster) เป็นเกมอาร์เคดที่ต้องใช้เวลาในการเล่นอย่างแม่นยำ!  ระเบิดผ่านด่านที่น่าตื่นเต้น หลบหลีกศัตรูที่น่ารำคาญ และหลีกเลี่ยงการกระแทกหัวกับต้นไม้ขณะที่คุณสำรวจการผจญภัยในป่าแอ็คชั่นนี้ (Super Squirrel Blaster is a fast-paced arcade game where precise timing is key! Blast through exciting levels, dodge pesky enemies and avoid bonking your head on trees as you navigate this action-packed forest adventure.)",
+      "howToPlayTitle": "วิธีการเล่น (How to Play)",
+      "howToPlayStep1": "ใช้ปุ่มซ้ายของเมาส์หรือปุ่มสเปซบาร์เพื่อระเบิด (Use the left mouse button or spacebar to blast.)",
+      "howToPlayStep2": "แตะหน้าจอเพื่อระเบิดบนอุปกรณ์มือถือ (Tap on the screen to blast on mobile devices.)",
+      "howToPlayStep3": "ฝึกฝนการยิงที่สมบูรณ์แบบเพื่อพิชิตป่า! (Master the perfect shot to conquer the wild!)",
+      "keyFeaturesTitle": "คุณสมบัติหลัก (Key Features)",
+      "feature1Title": "แอ็คชั่นที่รวดเร็ว (Fast-Paced Action)",
+      "feature1Description": "สัมผัสกับการเล่นเกมที่น่าตื่นเต้นและเร็วในซูเปอร์สกอร์เรลเบลสเตอร์ (Experience thrilling, high-speed gameplay in Super Squirrel Blaster.)",
+      "feature2Title": "เวลาที่แม่นยำ (Precision Timing)",
+      "feature2Description": "ฝึกฝนศิลปะของการกำหนดเวลาที่แม่นยำเพื่อนำทางผ่านด่าน (Master the art of precise timing to navigate through levels.)",
+      "feature3Title": "การผจญภัยในป่า (Forest Adventure)",
+      "feature3Description": "สำรวจสภาพแวดล้อมป่าแอ็คชั่นที่เต็มไปด้วยความท้าทาย (Explore an action-packed forest environment filled with challenges.)",
+      "feature4Title": "โหมดเต็มหน้าจอ (Fullscreen Mode)",
+      "feature4Description": "เล่นซูเปอร์สกอร์เรลเบลสเตอร์ในโหมดเต็มหน้าจอเพื่อประสบการณ์ที่ดื่มด่ำ (Play Super Squirrel Blaster in fullscreen for an immersive experience.)"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย (FAQs)"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม (Game Video)"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ (Recommends)"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกี่ยวกับการเล่นเกม (Play Comments)"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด (All Games)",
+      "description": "เกมทั้งหมด (All Games)",
+      "games": "เกม (Games)"
+    },
+    "CategoryPage": {
+      "categories": "หมวดหมู่ (Categories)",
+      "noCategories": "ไม่พบหมวดหมู่ (No categories found)",
+      "viewMore": "ดูเพิ่มเติม (View More)",
+      "page": "หน้า (Page)"
+    }
+  }
+}

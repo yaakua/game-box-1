@@ -104,7 +104,7 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
             <div className="flex flex-col md:flex-row items-center gap-2">
               <p className="text-footer-foreground/80">{new Date().getFullYear()} {siteConfig.name} All rights reserved.</p>
               <div className="text-footer-foreground/80">
-                Powered by <Link href="https://fafafa.ai" className="text-footer-foreground/80 hover:text-footer-foreground transition-colors">fafafa.ai</Link>
+                Powered By <Link href="https://fafafa.ai" className="text-footer-foreground/80 hover:text-footer-foreground transition-colors">FaFaFa.ai</Link>
               </div>
             </div>
             <div className="flex flex-wrap gap-4">

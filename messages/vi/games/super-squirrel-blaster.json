@@ -1,0 +1,77 @@
+{
+  "super-squirrel-blaster": {
+    "title": "Siêu sóc chuột bắn phá",
+    "slogan": "Bùng nổ trong cuộc phiêu lưu rừng rậm!",
+    "description": "Siêu sóc chuột bắn phá là một trò chơi arcade nhanh chóng, nơi độ chính xác về thời gian là chìa khóa! Bắn xuyên qua các cấp độ thú vị, né tránh kẻ thù khó chịu và tránh đập đầu vào cây khi bạn điều hướng trong cuộc phiêu lưu rừng rậm đầy hành động này. Bạn có thể làm chủ cú bắn hoàn hảo và chinh phục vùng hoang dã không?",
+    "Loading": {
+      "title": "Đang tải Siêu sóc chuột bắn phá..."
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu nghị",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Siêu sóc chuột bắn phá",
+      "description": "Siêu sóc chuột bắn phá là một trò chơi kỹ năng tuyệt vời mà bạn có thể chơi ngay tại CrazyGames trên trình duyệt của mình, miễn phí. Trò chơi được xây dựng bằng HTML5 để hoạt động mà không gặp sự cố trên hầu hết các trình duyệt. Siêu sóc chuột bắn phá có thể chơi ở chế độ toàn màn hình.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Siêu sóc chuột bắn phá",
+      "whatIsTitle": "Siêu sóc chuột bắn phá là gì?",
+      "whatIsDescription": "Siêu sóc chuột bắn phá là một trò chơi arcade nhanh chóng, nơi độ chính xác về thời gian là chìa khóa! Bắn xuyên qua các cấp độ thú vị, né tránh kẻ thù khó chịu và tránh đập đầu vào cây khi bạn điều hướng trong cuộc phiêu lưu rừng rậm đầy hành động này.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Sử dụng nút chuột trái hoặc phím cách để bắn.",
+      "howToPlayStep2": "Nhấn vào màn hình để bắn trên thiết bị di động.",
+      "howToPlayStep3": "Làm chủ cú bắn chính xác để chinh phục vùng hoang dã!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Hành động nhanh chóng",
+      "feature1Description": "Trải nghiệm lối chơi hồi hộp, tốc độ cao trong Siêu sóc chuột bắn phá.",
+      "feature2Title": "Độ chính xác về thời gian",
+      "feature2Description": "Làm chủ nghệ thuật độ chính xác về thời gian để điều hướng qua các cấp độ.",
+      "feature3Title": "Phiêu lưu rừng rậm",
+      "feature3Description": "Khám phá môi trường rừng rậm đầy hành động, tràn ngập thách thức.",
+      "feature4Title": "Chế độ toàn màn hình",
+      "feature4Description": "Chơi Siêu sóc chuột bắn phá ở chế độ toàn màn hình để có trải nghiệm đắm chìm."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Nhận xét trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "super-squirrel-blaster": {
+    "title": "Super Squirrel Blaster",
+    "slogan": "Ledakan melalui petualangan hutan!",
+    "description": "Super Squirrel Blaster adalah game arcade cepat yang membutuhkan ketepatan waktu yang tepat! Ledakkan melalui level yang seru, hindari musuh yang mengganggu dan hindari menabrak pohon saat Anda menavigasi petualangan hutan yang penuh aksi ini. Bisakah Anda menguasai tembakan yang sempurna dan menaklukkan hutan belantara?",
+    "Loading": {
+      "title": "Memuat Super Squirrel Blaster..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Super Squirrel Blaster",
+      "description": "Super Squirrel Blaster adalah game keterampilan yang fantastis yang dapat Anda mainkan di CrazyGames secara langsung di browser Anda, gratis. Permainan ini dibuat dengan HTML5 untuk berjalan tanpa masalah di sebagian besar browser. Super Squirrel Blaster dapat dimainkan dalam mode layar penuh.",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Super Squirrel Blaster",
+      "whatIsTitle": "Apa itu Super Squirrel Blaster?",
+      "whatIsDescription": "Super Squirrel Blaster adalah game arcade cepat yang membutuhkan ketepatan waktu yang tepat! Ledakkan melalui level yang seru, hindari musuh yang mengganggu dan hindari menabrak pohon saat Anda menavigasi petualangan hutan yang penuh aksi ini.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Gunakan tombol kiri mouse atau spasi untuk meledakkan.",
+      "howToPlayStep2": "Ketuk layar untuk meledakkan di perangkat seluler.",
+      "howToPlayStep3": "Kuasai tembakan yang sempurna untuk menaklukkan hutan belantara!",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Aksi Cepat",
+      "feature1Description": "Rasakan gameplay yang menegangkan dan cepat di Super Squirrel Blaster.",
+      "feature2Title": "Ketepatan Waktu",
+      "feature2Description": "Kuasai seni ketepatan waktu untuk menavigasi melalui level.",
+      "feature3Title": "Petualangan Hutan",
+      "feature3Description": "Jelajahi lingkungan hutan yang penuh aksi dan tantangan.",
+      "feature4Title": "Mode Layar Penuh",
+      "feature4Description": "Mainkan Super Squirrel Blaster dalam mode layar penuh untuk pengalaman yang imersif."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lainnya",
+      "page": "Halaman"
+    }
+  }
+}

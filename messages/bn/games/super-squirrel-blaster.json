@@ -1,0 +1,77 @@
+{
+  "super-squirrel-blaster": {
+    "title": "সুপার স্কিরেল ব্লাস্টার (Super Squirrel Blaster)",
+    "slogan": "বনভোজনের অভিযানে ব্লাস্ট করুন! (Blast through the forest adventure!)",
+    "description": "সুপার স্কিরেল ব্লাস্টার একটি দ্রুতগতির আর্কেড গেম যেখানে সঠিক সময়কাল অত্যন্ত গুরুত্বপূর্ণ! এই ক্রিয়া-সংক্রান্ত বনভোজনের অভিযানে চ্যালেঞ্জিং লেভেলের মধ্য দিয়ে ব্লাস্ট করুন, বিরক্তিকর শত্রুদের এড়িয়ে চলুন এবং গাছের সাথে মাথা ঘষা এড়িয়ে চলুন। কি আপনি এই বন্য গ্রামে সঠিক শট মাস্টার করতে পারবেন?",
+    "Loading": {
+      "title": "সুপার স্কিরেল ব্লাস্টার লোডিং... (Loading Super Squirrel Blaster...)"
+    },
+    "Navbar": {
+      "title": "নেভিগেশন (Nav)"
+    },
+    "Common": {
+      "createAt": "উৎপাদন সময় (Create At)",
+      "guide": "নির্দেশিকা (Guide)",
+      "privacyPolicy": "গোপনীয়তা নীতি (Privacy Policy)",
+      "termsOfServices": "সেবা শর্তাবলী (Terms of Services)",
+      "text": "বিষয়বস্তু (Content)",
+      "help": "সাহায্য (Help)",
+      "friendlyLinks": "বন্ধুত্বপূর্ণ লিংক (Friendly Links)",
+      "articleList": "লেখা তালিকা (Article List)",
+      "home": "হোম (Home)",
+      "next": "পরবর্তী (Next)",
+      "previous": "পূর্ববর্তী (Previous)"
+    },
+    "HomeIframe": {
+      "title": "সুপার স্কিরেল ব্লাস্টার (Super Squirrel Blaster)",
+      "description": "সুপার স্কিরেল ব্লাস্টার একটি দারুণ দক্ষতা-ভিত্তিক গেম যা আপনি এখানে CrazyGames-এ সরাসরি আপনার ব্রাউজারে, বিনামূল্যে খেলতে পারবেন। এই গেমটি HTML5 দ্বারা তৈরি করা হয়েছে যাতে এটি বেশিরভাগ ব্রাউজারে সমস্যা ছাড়াই চলতে পারে। সুপার স্কিরেল ব্লাস্টার পূর্ণ স্ক্রিন মোডে খেলার জন্য উপযুক্ত।",
+      "iframeTitle": "গেম প্রিভিউ (Game Preview)",
+      "fullscreenButton": "পূর্ণ স্ক্রিন (Fullscreen)",
+      "shareButton": "শেয়ার করুন (Share)",
+      "urlCopied": "ইউআরএল ক্লিপবোর্ডে কপি হয়েছে! (URL copied to clipboard!)",
+      "downloadGame": "গেম ডাউনলোড করুন (Download Game)",
+      "playGame": "গেম খেলুন (Play Game)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "সুপার স্কিরেল ব্লাস্টার (Super Squirrel Blaster)",
+      "whatIsTitle": "সুপার স্কিরেল ব্লাস্টার কি?",
+      "whatIsDescription": "সুপার স্কিরেল ব্লাস্টার একটি দ্রুতগতির আর্কেড গেম যেখানে সঠিক সময়কাল অত্যন্ত গুরুত্বপূর্ণ! এই ক্রিয়া-সংক্রান্ত বনভোজনের অভিযানে চ্যালেঞ্জিং লেভেলের মধ্য দিয়ে ব্লাস্ট করুন, বিরক্তিকর শত্রুদের এড়িয়ে চলুন এবং গাছের সাথে মাথা ঘষা এড়িয়ে চলুন।",
+      "howToPlayTitle": "কিভাবে খেলবেন",
+      "howToPlayStep1": "ব্লাস্ট করার জন্য বাম মাউস বোতাম বা স্পেসবার ব্যবহার করুন।",
+      "howToPlayStep2": "মোবাইল ডিভাইসে ব্লাস্ট করার জন্য স্ক্রিনে ট্যাপ করুন।",
+      "howToPlayStep3": "বন্য গ্রামে জয়ের জন্য সঠিক শট মাস্টার করুন!",
+      "keyFeaturesTitle": "মূল বৈশিষ্ট্য",
+      "feature1Title": "দ্রুতগতির ক্রিয়া",
+      "feature1Description": "সুপার স্কিরেল ব্লাস্টার-এ উত্তেজক, উচ্চ গতির গেমপ্লে অভিজ্ঞতা পান।",
+      "feature2Title": "সঠিক সময়কাল",
+      "feature2Description": "লেভেলের মধ্য দিয়ে স্থানান্তরিত হতে সঠিক সময়কালের কৌশল মাস্টার করুন।",
+      "feature3Title": "বনভোজনের অভিযান",
+      "feature3Description": "চ্যালেঞ্জে ভরপুর একটি ক্রিয়া-সংক্রান্ত বন পরিবেশ অন্বেষণ করুন।",
+      "feature4Title": "পূর্ণ স্ক্রিন মোড",
+      "feature4Description": "একটি ইমার্সিভ অভিজ্ঞতার জন্য পূর্ণ স্ক্রিনে সুপার স্কিরেল ব্লাস্টার খেলুন।"
+    },
+    "HomeFAQs": {
+      "title": "প্রায়শ জিজ্ঞাস্য প্রশ্ন (FAQs)"
+    },
+    "HomeRelatedVideo": {
+      "title": "গেম ভিডিও (Game Video)"
+    },
+    "HomeRecommendation": {
+      "title": "পরামর্শ (Recommends)"
+    },
+    "HomeComments": {
+      "title": "খেলার মন্তব্য (Play Comments)"
+    },
+    "GamePage": {
+      "title": "সবকটি গেম (All Games)",
+      "description": "সবকটি গেম (All Games)",
+      "games": "গেম (Games)"
+    },
+    "CategoryPage": {
+      "categories": "বিভাগসমূহ (Categories)",
+      "noCategories": "কোনও বিভাগ পাওয়া যায়নি (No categories found)",
+      "viewMore": "আরও দেখুন (View More)",
+      "page": "পৃষ্ঠা (Page)"
+    }
+  }
+}

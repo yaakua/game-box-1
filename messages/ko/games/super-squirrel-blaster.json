@@ -1,0 +1,77 @@
+{
+  "super-squirrel-blaster": {
+    "title": "슈퍼 다람쥐 폭발기",
+    "slogan": "숲 모험을 통해 폭발하세요!",
+    "description": "슈퍼 다람쥐 폭발기는 정확한 타이밍이 관건인 빠르게 진행되는 아케이드 게임입니다! 흥미진진한 레벨을 돌파하고, 성가신 적을 피하며 나무에 머리를 부딪히지 않고 이 액션으로 가득 찬 숲 모험을 탐험해보세요. 완벽한 샷을 마스터하여 야생을 정복할 수 있을까요?(Super Squirrel Blaster)",
+    "Loading": {
+      "title": "슈퍼 다람쥐 폭발기 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "슈퍼 다람쥐 폭발기",
+      "description": "슈퍼 다람쥐 폭발기는 크레이지게임에서 브라우저로 직접 플레이할 수 있는 훌륭한 기술 게임입니다. 이 게임은 대부분의 브라우저에서 문제없이 실행되도록 HTML5로 제작되었습니다. 슈퍼 다람쥐 폭발기는 전체 화면 모드로 플레이할 수 있습니다.(Super Squirrel Blaster)",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "슈퍼 다람쥐 폭발기",
+      "whatIsTitle": "슈퍼 다람쥐 폭발기는 무엇인가요?",
+      "whatIsDescription": "슈퍼 다람쥐 폭발기는 정확한 타이밍이 관건인 빠르게 진행되는 아케이드 게임입니다! 흥미진진한 레벨을 돌파하고, 성가신 적을 피하며 나무에 머리를 부딪히지 않고 이 액션으로 가득 찬 숲 모험을 탐험해보세요.(Super Squirrel Blaster)",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "왼쪽 마우스 버튼이나 스페이스바를 사용하여 폭발시킵니다.",
+      "howToPlayStep2": "모바일 기기에서는 화면을 탭하여 폭발시킵니다.",
+      "howToPlayStep3": "완벽한 샷을 마스터하여 야생을 정복하세요!",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "빠른 액션",
+      "feature1Description": "슈퍼 다람쥐 폭발기에서 짜릿한 고속 게임 플레이를 경험하십시오.",
+      "feature2Title": "정밀한 타이밍",
+      "feature2Description": "레벨을 이동하기 위해 정밀한 타이밍의 기술을 익히세요.",
+      "feature3Title": "숲 모험",
+      "feature3Description": "도전으로 가득 찬 액션으로 가득 찬 숲 환경을 탐험하세요.",
+      "feature4Title": "전체 화면 모드",
+      "feature4Description": "몰입도 높은 경험을 위해 슈퍼 다람쥐 폭발기를 전체 화면 모드로 플레이하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "super-squirrel-blaster": {
+    "title": "Super Squirrel Blaster (Super Squirrel Blaster)",
+    "slogan": "Faites exploser l'aventure dans la forêt ! (Blast through the forest adventure!)",
+    "description": "Super Squirrel Blaster est un jeu d'arcade rapide où la synchronisation précise est essentielle !  Faites exploser des niveaux palpitants, esquivez les ennemis gênants et évitez de vous cogner la tête aux arbres pendant que vous naviguez dans cette aventure forestière riche en action.  arriverez-vous à maîtriser la prise de vue parfaite et à conquérir la nature sauvage ? (Super Squirrel Blaster is a fast-paced arcade game where precise timing is key! Blast through exciting levels, dodge pesky enemies and avoid bonking your head on trees as you navigate this action-packed forest adventure. Can you master the perfect shot and conquer the wild?)",
+    "Loading": {
+      "title": "Chargement de Super Squirrel Blaster..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Super Squirrel Blaster (Super Squirrel Blaster)",
+      "description": "Super Squirrel Blaster est un jeu de compétence fantastique que vous pouvez jouer ici sur CrazyGames directement dans votre navigateur, gratuitement. Le jeu est développé avec HTML5 pour fonctionner sans problème dans la plupart des navigateurs. Super Squirrel Blaster est jouable en plein écran. (Super Squirrel Blaster is a fantastic skill game that you can play here on CrazyGames directly in your browser, free of charge. The game is built with HTML5 to run without trouble in most browsers. Super Squirrel Blaster is playable in fullscreen mode.)",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Super Squirrel Blaster (Super Squirrel Blaster)",
+      "whatIsTitle": "Qu'est-ce que Super Squirrel Blaster ?",
+      "whatIsDescription": "Super Squirrel Blaster est un jeu d'arcade rapide où la synchronisation précise est essentielle !  Faites exploser des niveaux palpitants, esquivez les ennemis gênants et évitez de vous cogner la tête aux arbres pendant que vous naviguez dans cette aventure forestière riche en action. (Super Squirrel Blaster is a fast-paced arcade game where precise timing is key! Blast through exciting levels, dodge pesky enemies and avoid bonking your head on trees as you navigate this action-packed forest adventure.)",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez le bouton gauche de la souris ou la barre d'espace pour tirer.",
+      "howToPlayStep2": "Appuyez sur l'écran pour tirer sur les appareils mobiles.",
+      "howToPlayStep3": "Maîtrisez la prise de vue parfaite pour conquérir la nature sauvage !",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Action rapide",
+      "feature1Description": "Découvrez un gameplay palpitant et à grande vitesse dans Super Squirrel Blaster.",
+      "feature2Title": "Synchronisation de précision",
+      "feature2Description": "Maîtrisez l'art de la synchronisation précise pour naviguer dans les niveaux.",
+      "feature3Title": "Aventure en forêt",
+      "feature3Description": "Explorez un environnement forestier riche en action et plein de défis.",
+      "feature4Title": "Mode plein écran",
+      "feature4Description": "Jouez à Super Squirrel Blaster en plein écran pour une expérience immersive."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}
