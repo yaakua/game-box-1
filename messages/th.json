@@ -1,0 +1,75 @@
+{
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "Loading": {
+    "title": ""
+  },
+  "Navbar": {
+    "title": "Nav"
+  },
+  "Common": {
+    "createAt": "สร้างเมื่อ",
+    "guide": "คู่มือ",
+    "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+    "termsOfServices": "ข้อกำหนดการให้บริการ",
+    "text": "เนื้อหา",
+    "help": "ช่วยเหลือ",
+    "friendlyLinks": "ลิงก์ที่เป็นมิตร",
+    "articleList": "รายการบทความ",
+    "home": "หน้าหลัก",
+    "next": "ถัดไป",
+    "previous": "ก่อนหน้า"
+  },
+  "HomeIframe": {
+    "title": "",
+    "description": "",
+    "iframeTitle": "Game Preview",
+    "fullscreenButton": "Fullscreen",
+    "shareButton": "Share",
+    "urlCopied": "URL copied to clipboard!",
+    "downloadGame": "Download Game",
+    "playGame": "เล่นเกม"
+  },
+  "HomeFeatures": {
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "How to Play",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "Key Features",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
+  },
+  "HomeFAQs": {
+    "title": "FAQs"
+  },
+  "HomeRelatedVideo": {
+    "title": "Game Video"
+  },
+  "HomeRecommendation": {
+    "title": "Recommends"
+  },
+  "HomeComments": {
+    "title": "Play Comments"
+  },
+  "GamePage": {
+    "title": "ทุกเกม",
+    "description": "ทุกเกม",
+    "games": "เกม"
+  },
+  "CategoryPage": {
+    "categories": "หมวดหมู่",
+    "noCategories": "ไม่พบหมวดหมู่",
+    "viewMore": "ดูเพิ่มเติม",
+    "page": "หน้า"
+  }
+}

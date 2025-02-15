@@ -1,0 +1,75 @@
+{
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "Loading": {
+    "title": ""
+  },
+  "Navbar": {
+    "title": "Nav"
+  },
+  "Common": {
+    "createAt": "Дата создания",
+    "guide": "Руководство",
+    "privacyPolicy": "Политика конфиденциальности",
+    "termsOfServices": "Условия использования",
+    "text": "Содержание",
+    "help": "Помощь",
+    "friendlyLinks": "Полезные ссылки",
+    "articleList": "Список статей",
+    "home": "Главная",
+    "next": "Следующий",
+    "previous": "Предыдущий"
+  },
+  "HomeIframe": {
+    "title": "",
+    "description": "",
+    "iframeTitle": "Game Preview",
+    "fullscreenButton": "Fullscreen",
+    "shareButton": "Share",
+    "urlCopied": "URL copied to clipboard!",
+    "downloadGame": "Download Game",
+    "playGame": "Играть в игру"
+  },
+  "HomeFeatures": {
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "How to Play",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "Key Features",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
+  },
+  "HomeFAQs": {
+    "title": "FAQs"
+  },
+  "HomeRelatedVideo": {
+    "title": "Game Video"
+  },
+  "HomeRecommendation": {
+    "title": "Recommends"
+  },
+  "HomeComments": {
+    "title": "Play Comments"
+  },
+  "GamePage": {
+    "title": "Все игры",
+    "description": "Все игры",
+    "games": "Игры"
+  },
+  "CategoryPage": {
+    "categories": "Категории",
+    "noCategories": "Категории не найдены",
+    "viewMore": "Посмотреть больше",
+    "page": "Страница"
+  }
+}

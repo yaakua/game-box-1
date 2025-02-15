@@ -1,0 +1,216 @@
+{
+  "colors": {
+    "background": "#FFFFFF",
+    "foreground": "#334155",
+    "muted": "#64748B",
+    "border": "#E2E8F0",
+    "ring": "#64748B",
+    "primary": "#64748B",
+    "primary-foreground": "#334155",
+    "secondary": "#94A3B8",
+    "secondary-foreground": "#334155",
+    "accent": "#475569",
+    "accent-foreground": "#334155",
+    "success": "#64748B",
+    "success-foreground": "#334155",
+    "warning": "#F59E0B",
+    "warning-foreground": "#334155",
+    "error": "#EF4444",
+    "error-foreground": "#334155",
+    "info": "#64748B",
+    "info-foreground": "#334155",
+    "card": "#FFFFFF",
+    "card-foreground": "#334155",
+    "popover": "#FFFFFF",
+    "popover-foreground": "#334155",
+    "gray": {
+      "800": "#F8FAFC"
+    },
+    "green": {
+      "400": "#64748B"
+    },
+    "game-card": "#FFFFFF",
+    "game-card-hover": "#F8FAFC",
+    "game-card-foreground": "#334155",
+    "game-card-title": "#0F172A",
+    "game-card-description": "#64748B",
+    "game-card-hover-text": "#FFFFFF",
+    "feature-card": "#FFFFFF",
+    "feature-card-hover": "#F8FAFC",
+    "feature-card-foreground": "#334155",
+    "feature-title": "#64748B",
+    "feature-description": "#64748B",
+    "feature-section-title": "#0F172A",
+    "download-section": "#F8FAFC",
+    "download-title": "#0F172A",
+    "download-button": "#64748B",
+    "download-button-hover": "#475569",
+    "download-button-foreground": "#FFFFFF",
+    "download-count": "#64748B",
+    "download-description": "#64748B",
+    "faq-header": "#F8FAFC",
+    "faq-content": "#FFFFFF",
+    "faq-divider": "#E2E8F0",
+    "faq-title": "#0F172A",
+    "faq-text": "#64748B",
+    "category-tag": "#EEF2FF",
+    "category-tag-foreground": "#4F46E5",
+    "tag": "#F8FAFC",
+    "tag-foreground": "#64748B",
+    "hover": "rgba(100, 116, 139, 0.1)",
+    "hover-foreground": "#64748B",
+    "active": "#64748B",
+    "active-foreground": "#FFFFFF",
+    "disabled": "#E2E8F0",
+    "disabled-foreground": "#94A3B8",
+    "navbar": "#FFFFFF",
+    "navbar-foreground": "#334155",
+    "navbar-muted": "#64748B",
+    "navbar-muted-hover": "#334155",
+    "footer": "#F8FAFC",
+    "footer-foreground": "#334155",
+    "divider": "#E2E8F0",
+    "overlay": "rgba(15, 23, 42, 0.5)",
+    "shadow": "rgba(15, 23, 42, 0.1)",
+    "highlight": "#64748B",
+    "highlight-background": "#F8FAFC",
+    "decoration": "#64748B",
+    "iframe": "#FFFFFF",
+    "iframe-foreground": "#334155",
+    "iframe-overlay": "rgba(241, 245, 249, 0.7)",
+    "section-background": "#F8FAFC",
+    "section-border": "rgba(100, 116, 139, 0.1)",
+    "section-shadow": "0 4px 6px -1px rgba(100, 116, 139, 0.1), 0 2px 4px -2px rgba(100, 116, 139, 0.1)",
+    "lazy-iframe-background": "rgba(248, 250, 252, 0.6)",
+    "lazy-iframe-glow-1": "rgba(148, 163, 184, 0.15)",
+    "lazy-iframe-glow-2": "rgba(100, 116, 139, 0.1)",
+    "lazy-iframe-title": "#1E293B",
+    "lazy-iframe-button-from": "#334155",
+    "lazy-iframe-button-to": "#475569",
+    "lazy-iframe-button-hover-from": "#1E293B",
+    "lazy-iframe-button-hover-to": "#334155",
+    "lazy-iframe-button-foreground": "#F8FAFC",
+    "lazy-iframe-loading": "#64748B",
+    "lazy-iframe-overlay": "linear-gradient(135deg, rgba(148, 163, 184, 0.1) 0%, rgba(248, 250, 252, 0.7) 50%, rgba(100, 116, 139, 0.1) 100%)",
+    "lazy-iframe-button-shadow-color": "rgba(51, 65, 85, 0.4)",
+    "lazy-iframe-button-bg": "rgba(248, 250, 252, 0.1)",
+    "lazy-iframe-button-bg-hover": "rgba(248, 250, 252, 0.15)",
+    "link": "#64748B",
+    "link-hover": "#475569"
+  },
+  "typography": {
+    "DEFAULT": {
+      "css": {
+        "color": "#334155",
+        "p": {
+          "fontSize": "1rem",
+          "lineHeight": "1.75"
+        },
+        "h1": {
+          "color": "#0F172A",
+          "fontWeight": "800",
+          "fontSize": "2.2em",
+          "marginTop": "0.8em",
+          "marginBottom": "0.8em",
+          "lineHeight": "1.2"
+        },
+        "h2": {
+          "color": "#334155",
+          "fontWeight": "700",
+          "fontSize": "1.5em",
+          "marginTop": "0.8em",
+          "marginBottom": "0.8em"
+        },
+        "h3": {
+          "color": "#64748B",
+          "fontWeight": "600",
+          "fontSize": "1.3em",
+          "marginTop": "0.8em",
+          "marginBottom": "0.8em"
+        },
+        "code": {
+          "color": "#64748B",
+          "backgroundColor": "rgba(100, 116, 139, 0.1)"
+        },
+        "pre": {
+          "backgroundColor": "#F1F5F9",
+          "color": "#334155"
+        },
+        "blockquote": {
+          "borderLeftColor": "#64748B",
+          "color": "#64748B"
+        },
+        "a": {
+          "color": "#64748B",
+          "textDecoration": "underline",
+          "&:hover": {
+            "color": "#475569"
+          }
+        },
+        "strong": {
+          "color": "#0F172A"
+        },
+        "hr": {
+          "borderColor": "#E2E8F0"
+        },
+        "th": {
+          "color": "#334155"
+        },
+        "tr": {
+          "color": "#334155"
+        },
+        "ul": {
+          "li": {
+            "&::marker": {
+              "color": "#64748B"
+            }
+          }
+        },
+        "ol": {
+          "li": {
+            "&::marker": {
+              "color": "#64748B"
+            }
+          }
+        }
+      }
+    }
+  },
+  "nextui": {
+    "themes": {
+      "light": {
+        "colors": {
+          "primary": {
+            "DEFAULT": "#64748B",
+            "50": "#F8FAFC",
+            "100": "#E2E8F0",
+            "200": "#D3D9F4",
+            "300": "#C5CAE9",
+            "400": "#A1B4F2",
+            "500": "#64748B",
+            "600": "#475569",
+            "700": "#364A5A",
+            "800": "#2F3A4E",
+            "900": "#242F42"
+          },
+          "secondary": {
+            "DEFAULT": "#64748B",
+            "50": "#F8F9FF",
+            "100": "#E5E9F2",
+            "200": "#D1D9F1",
+            "300": "#C5D0F1",
+            "400": "#A5B8F1",
+            "500": "#64748B",
+            "600": "#475569",
+            "700": "#364A5A",
+            "800": "#2F3A4E",
+            "900": "#242F42"
+          }
+        }
+      },
+      "dark": {
+        "colors": {}
+      }
+    }
+  }
+}

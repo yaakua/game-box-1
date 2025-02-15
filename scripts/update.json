@@ -1,0 +1,940 @@
+{
+    "2025-02-11": {
+        "version": "2.0.7",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决评论内容头像不显示的问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/Comments.tsx"
+        ]
+    },
+    "2025-02-07 14": {
+        "version": "2.0.6",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决iframe加载时的文字提示不正确的问题（改为当前游戏名称而非网站名称）"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "app/[locale]/(public)/views/LazyIframe.tsx"
+        ]
+    },
+    "2025-02-07": {
+        "version": "2.0.5",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "兼容部分游戏国际化内容值为null导致编译报错的问题"
+        ],
+        "modify": [
+            "i18n.ts"
+        ]
+    },
+    "2025-02-06": {
+        "version": "2.0.4",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "更新下载游戏组件",
+            "优化页脚和社交图标组件",
+            "更新多个主题配置文件"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/DownloadGame.tsx",
+            "lib/components/footer.tsx",
+            "lib/components/social-icons.tsx",
+            "lib/config/themes/cyberpunk-neon.json",
+            "lib/config/themes/dark.json",
+            "lib/config/themes/deep-red.json",
+            "lib/config/themes/deep-sea.json",
+            "lib/config/themes/default.json",
+            "lib/config/themes/forest-theme.json"
+        ]
+    },
+
+    "2025-01-26 12": {
+        "version": "2.0.3",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决游戏页面获取详情内容路径不正确的问题"
+        ],
+        "modify": [
+            "lib/components/games-template/page.tsx"
+        ]
+    },
+    "2025-01-26": {
+        "version": "2.0.2",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决游戏页面获取详情内容路径不正确的问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/page.tsx",
+            "lib/components/games-template/page.tsx"
+        ]
+    },
+
+    "2025-01-23": {
+        "version": "2.0.1",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "更新站点配置文件和默认配置"
+        ],
+        "modify": [
+            "lib/config/site.json",
+            "lib/types/site.ts"
+        ]
+    },
+    "2025-01-18": {
+        "version": "2.0.0",
+        "messagesKeyModify": true,
+        "changeLog": [
+            "新增游戏主题功能，支持多种预设主题",
+            "新增游戏盒子布局组件",
+            "新增游戏分类组件",
+            "优化整体页面布局结构"
+        ],
+        "add": [
+            "lib/components/game-category/GameCard.tsx",
+            "lib/components/game-category/GameGroup.tsx",
+            "lib/components/games-template/game-box.tsx",
+            "lib/components/games-template/c/[[...]]/page.tsx",
+            "lib/components/layout/AppLayout.tsx",
+            "lib/components/layout/MainLayout.tsx",
+            "lib/components/sidebar/CategorySidebar.tsx",
+            "lib/config/themes/cyberpunk-neon.json",
+            "lib/config/themes/dark.json",
+            "lib/config/themes/deep-red.json",
+            "lib/config/themes/deep-sea.json",
+            "lib/config/themes/default.json",
+            "lib/config/themes/forest-theme.json",
+            "lib/config/themes/index.ts",
+            "lib/config/themes/purple-tech.json",
+            "lib/types/site.ts"
+        ],
+        "modify": [
+            "app/[locale]/(public)/blogs/[[...page]]/page.tsx",
+            "app/[locale]/(public)/error.tsx",
+            "app/[locale]/(public)/games/page.tsx",
+            "app/[locale]/(public)/loading.tsx",
+            "app/[locale]/(public)/not-found.tsx",
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/privacy-policy/en.mdx",
+            "app/[locale]/(public)/terms-of-services/en.mdx",
+            "app/[locale]/(public)/views/Ad.tsx",
+            "app/[locale]/(public)/views/Comments.tsx",
+            "app/[locale]/(public)/views/DownloadGame.tsx",
+            "app/[locale]/(public)/views/FAQs.tsx",
+            "app/[locale]/(public)/views/Features.tsx",
+            "app/[locale]/(public)/views/GameCard.tsx",
+            "app/[locale]/(public)/views/GameRecommendationCard.tsx",
+            "app/[locale]/(public)/views/Guide.tsx",
+            "app/[locale]/(public)/views/IframeActions.tsx",
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "app/[locale]/(public)/views/LazyIframe.tsx",
+            "app/[locale]/(public)/views/PopupWindows.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "app/[locale]/(public)/views/SectionWrapper.tsx",
+            "lib/components/breadcrumbs.tsx",
+            "lib/components/faq.tsx",
+            "lib/components/footer.tsx",
+            "lib/components/game-category/index.tsx",
+            "lib/components/games-template/page.tsx",
+            "lib/components/iframe_button.tsx",
+            "lib/components/locale-dropdown.tsx",
+            "lib/components/mdx-article.tsx",
+            "lib/components/navbar.tsx",
+            "lib/components/skeletons.tsx",
+            "lib/components/social-icons.tsx",
+            "lib/components/t-file-page-template.tsx",
+            "lib/config/game-page-messages.json",
+            "lib/config/site.json",
+            "lib/ui/components/sheet.tsx",
+            "lib/utils/blogs.ts",
+            "lib/utils/game-box-settings.ts",
+            "messages/bn.json",
+            "messages/de.json",
+            "messages/en.json",
+            "messages/es.json",
+            "messages/fr.json",
+            "messages/game_page_template.json",
+            "messages/id.json",
+            "messages/it.json",
+            "messages/ja.json",
+            "messages/ko.json",
+            "messages/pt-BR.json",
+            "messages/pt.json",
+            "messages/ru.json",
+            "messages/th.json",
+            "messages/tr.json",
+            "messages/uk.json",
+            "messages/vi.json",
+            "messages/zh-CN.json",
+            "messages/zh-TW.json",
+            "next.config.ts",
+            "resources/game-box/en.json",
+            "tailwind.config.ts",
+            "package.json"
+          ]
+    },
+
+    "2025-01-22": {
+        "version": "1.2.30",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复国际化编译报错问题"
+        ],
+        "modify": [
+            "i18n.ts"
+        ]
+    },
+
+    "2025-01-14": {
+        "version": "1.2.29",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修改图片使用方式，去除nextjs默认的图片加载策略"
+        ],
+        "modify": [
+            "app/[locale]/(public)/blogs/[[...page]]/page.tsx",
+            "app/[locale]/(public)/games/page.tsx",
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/privacy-policy/page.tsx",
+            "app/[locale]/(public)/terms-of-services/page.tsx",
+            "app/[locale]/(public)/views/CustomizeFeatures.tsx",
+            "app/[locale]/(public)/views/Features.tsx",
+            "app/[locale]/(public)/views/LazyIframe.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "lib/components/games-template/page.tsx"
+        ]
+    },
+    "2025-01-09": {
+        "version": "1.2.28",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决自定义页面内容无法渲染表格的问题，修改自定义内容样式与首页其他页面一致"
+        ],
+        "modify": [
+            "app/[locale]/(public)/blogs/[[...page]]/page.tsx",
+            "app/[locale]/(public)/page.tsx",
+            "lib/components/games-template/page.tsx",
+            "lib/components/mdx-article.tsx",
+            "lib/components/t-file-page-template.tsx",
+            "middleware.ts",
+            "tailwind.config.ts"
+        ]
+    },
+    "2025-01-08 20": {
+        "version": "1.2.27",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "增加兼容性逻辑，防止有错误的格式数据导致编译报错",
+            "修复游戏截图未加载最新上传的图片问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/FAQs.tsx",
+            "app/[locale]/(public)/views/GameRecommendationCard.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "app/[locale]/(public)/views/RelatedVideo.tsx",
+            "app/[locale]/(public)/views/IframeSection.tsx"
+        ]
+    },
+    "2025-01-08 19": {
+        "version": "1.2.24",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "删除不再使用的playground相关页面",
+            "优化博客、游戏、隐私政策等页面，实现全静态化",
+            "解决博客页面渲染404问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/blogs/[[...page]]/page.tsx",
+            "app/[locale]/(public)/games/page.tsx",
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/privacy-policy/page.tsx",
+            "app/[locale]/(public)/t/page.tsx",
+            "app/[locale]/(public)/terms-of-services/page.tsx",
+            "lib/components/games-template/page.tsx",
+            "lib/components/t-file-page-template.tsx"
+        ]
+    },
+    "2025-01-08": {
+        "version": "1.2.23",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "优化iframe蒙版样式和iframe自动加载策略",
+            "增加文章列表分页功能以及调整文章显示顺序",
+            "修复部分Image组件缺失width属性的问题",
+            "增加隐私政策等页面的不被索引的配置"
+        ],
+        "add": [
+            "app/[locale]/(public)/blogs/[[...page]]/page.tsx"
+        ],
+        "modify": [
+            "app/[locale]/(public)/games/page.tsx",
+            "app/[locale]/(public)/t/page.tsx",
+            "lib/components/t-file-page-template.tsx",
+            "app/[locale]/(public)/views/LazyIframe.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "app/[locale]/(public)/error.tsx",
+            "app/[locale]/(public)/not-found.tsx",
+            "lib/components/navbar.tsx",
+            "app/global-error.tsx",
+            "lib/utils/blogs.ts",
+            "app/[locale]/(public)/layout.tsx",
+            "app/[locale]/(public)/privacy-policy/page.tsx",
+            "app/[locale]/(public)/t/page.tsx",
+            "app/[locale]/(public)/terms-of-services/page.tsx",
+            "app/[locale]/(public)/views/LazyIframe.tsx",
+            "lib/components/t-file-page-template.tsx",
+            "lib/utils/blogs.ts",
+            "next.config.ts",
+            "messages/bn.json",
+            "messages/de.json",
+            "messages/en.json",
+            "messages/es.json",
+            "messages/fr.json",
+            "messages/game_page_template.json",
+            "messages/id.json",
+            "messages/it.json",
+            "messages/ja.json",
+            "messages/ko.json",
+            "messages/pt-BR.json",
+            "messages/pt.json",
+            "messages/ru.json",
+            "messages/th.json",
+            "messages/tr.json",
+            "messages/uk.json",
+            "messages/vi.json",
+            "messages/zh-CN.json",
+            "messages/zh-TW.json"
+        ]
+    },
+    "2025-01-01 10": {
+        "version": "1.2.22",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "优化广告组件的响应式布局",
+            "优化文章模板页面的图片显示",
+            "优化 LazyIframe 组件的加载体验"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/Ad.tsx",
+            "lib/components/t-file-page-template.tsx",
+            "app/[locale]/(public)/views/LazyIframe.tsx"
+        ]
+    },
+    "2025-01-01": {
+        "version": "1.2.21",
+        "messagesKeyModify": true,
+        "changeLog": [
+            "优化页面图片加载方式",
+            "解决文章列表404问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/error.tsx",
+            "app/[locale]/(public)/games/page.tsx",
+            "app/[locale]/(public)/not-found.tsx",
+            "app/[locale]/(public)/privacy-policy/page.tsx",
+            "app/[locale]/(public)/t/page.tsx",
+            "app/[locale]/(public)/terms-of-services/page.tsx",
+            "app/[locale]/(public)/views/Ad.tsx",
+            "app/[locale]/(public)/views/CustomizeFeatures.tsx",
+            "app/[locale]/(public)/views/Features.tsx",
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "app/[locale]/(public)/views/LazyIframe.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "app/global-error.tsx",
+            "lib/components/t-file-page-template.tsx",
+            "lib/utils/blogs.ts"
+        ]
+    },
+    "2024-12-31 17": {
+        "version": "1.2.20",
+        "messagesKeyModify": true,
+        "changeLog": [
+            "解决文章列表404的问题",
+            "文章详情页面增加面包屑导航"
+        ],
+        "add": [
+            "lib/utils/blogs.ts"
+        ],
+        "modify": [
+            "app/[locale]/(public)/t/page.tsx",
+            "lib/components/t-file-page-template.tsx",
+            "messages/bn.json",
+            "messages/de.json",
+            "messages/en.json",
+            "messages/es.json",
+            "messages/fr.json",
+            "messages/game_page_template.json",
+            "messages/id.json",
+            "messages/it.json",
+            "messages/ja.json",
+            "messages/ko.json",
+            "messages/pt-BR.json",
+            "messages/pt.json",
+            "messages/ru.json",
+            "messages/th.json",
+            "messages/tr.json",
+            "messages/uk.json",
+            "messages/vi.json",
+            "messages/zh-CN.json",
+            "messages/zh-TW.json"
+        ]
+    },
+    "2024-12-31": {
+        "version": "1.2.19",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "当推荐游戏数据为空时，隐藏推荐列表"
+        ],
+        "modify": [
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/views/GameRecommendationCard.tsx",
+            "lib/components/games-template/page.tsx"
+        ]
+    },
+    "2024-12-30 20": {
+        "version": "1.2.18",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "优化下载游戏页面布局，增加平台下载按钮动画效果",
+            "改进iframe懒加载机制，提升页面加载性能",
+            "修复游戏页面布局在不同设备上的显示问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/DownloadGame.tsx",
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "app/[locale]/(public)/views/LazyIframe.tsx"
+        ]
+    },
+    "2024-12-30": {
+        "version": "1.2.17",
+        "messagesKeyModify": true,
+        "changeLog": [
+            "优化游戏页面布局，默认不加载iframe,调整推荐游戏列表位置",
+            "页面详情增加自定义内容渲染功能"
+        ],
+        "add": [
+            "app/[locale]/(public)/views/CustomizeFeatures.tsx",
+            "app/[locale]/(public)/views/GameCard.tsx",
+            "app/[locale]/(public)/views/LazyIframe.tsx"
+        ],
+        "modify": [
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/t/page.tsx",
+            "app/[locale]/(public)/views/Ad.tsx",
+            "app/[locale]/(public)/views/Comments.tsx",
+            "app/[locale]/(public)/views/DownloadGame.tsx",
+            "app/[locale]/(public)/views/FAQs.tsx",
+            "app/[locale]/(public)/views/Features.tsx",
+            "app/[locale]/(public)/views/IframeActions.tsx",
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "app/[locale]/(public)/views/PopupWindows.tsx",
+            "app/[locale]/(public)/views/RelatedVideo.tsx",
+            "app/[locale]/(public)/views/GameRecommendationCard.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "app/[locale]/(public)/views/SectionWrapper.tsx",
+            "app/robots.ts",
+            "lib/components/games-template/page.tsx",
+            "lib/components/mdx-article.tsx",
+            "lib/config/site.json",
+            "lib/types/site.ts",
+            "lib/utils/resource.ts",
+            "tailwind.config.ts",
+            "messages/bn.json",
+            "messages/de.json",
+            "messages/en.json",
+            "messages/es.json",
+            "messages/fr.json",
+            "messages/id.json",
+            "messages/it.json",
+            "messages/ja.json",
+            "messages/ko.json",
+            "messages/pt-BR.json",
+            "messages/pt.json",
+            "messages/ru.json",
+            "messages/th.json",
+            "messages/tr.json",
+            "messages/uk.json",
+            "messages/vi.json",
+            "messages/zh-CN.json",
+            "messages/zh-TW.json"
+        ]
+    },
+    "2024-12-12": {
+        "version": "1.2.16",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决游戏列表页面alternates配置错误导致404的问题",
+            "优化广告组件默认显示大小"
+        ],
+        "modify": [
+            "app/[locale]/(public)/games/page.tsx",
+            "app/[locale]/(public)/views/Ad.tsx"
+        ]
+    },
+    "2024-12-11 21": {
+        "version": "1.2.15",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复Ad链接无referrer的问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/Ad.tsx"
+        ]
+    },
+    "2024-12-11 20": {
+        "version": "1.2.14",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复编译报错问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/Ad.tsx"
+        ]
+    },
+    "2024-12-11": {
+        "version": "1.2.13",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "添加广告组件"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "lib/types/site.ts"
+        ],
+        "add": [
+            "app/[locale]/(public)/views/Ad.tsx"
+        ]
+    },
+    "2024-12-10": {
+        "version": "1.2.12",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "支持自定义logo图片"
+        ],
+        "modify": [
+            "lib/components/navbar.tsx",
+            "lib/types/site.ts"
+        ]
+    },
+    "2024-12-09": {
+        "version": "1.2.11",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "优化自定义页面模板，防止编译报错",
+            "去掉自定义页面slug属性，防止错误的路径导致404，改为自动根据文件名生成"
+        ],
+        "modify": [
+            "lib/components/t-file-page-template.tsx",
+            "lib/components/games-template/config/config.json",
+            "lib/i18n/locales.ts"
+        ]
+    },
+    "2024-12-05": {
+        "version": "1.2.10",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决某些子游戏名称包含多语言符号，导致路径404的问题"
+        ],
+        "modify": [
+            "lib/components/footer.tsx",
+            "lib/components/locale-dropdown.tsx"
+        ]
+    },
+    "2024-12-03 20": {
+        "version": "1.2.9",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决已有的子游戏目录模板未更新导致右侧推荐游戏样式不正确的问题"
+        ],
+        "modify": [
+            "lib/components/games-template/page.tsx"
+        ]
+    },
+    "2024-12-03 19": {
+        "version": "1.2.8",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "优化自定义页面模板，修复404问题",
+            "防止t目录文件被替换"
+        ],
+        "modify": [
+            "app/[locale]/(public)/t/page.tsx",
+            "app/[locale]/(public)/t/how-to-play/page.tsx",
+            "lib/components/t-file-page-template.tsx"
+        ]
+    },
+    "2024-12-03 15": {
+        "version": "1.2.4",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "隐私政策和用户协议菜单页面增加canonical链接"
+        ],
+        "modify": [
+            "app/[locale]/(public)/privacy-policy/page.tsx",
+            "app/[locale]/(public)/terms-of-services/page.tsx",
+            "lib/i18n/locales.ts"
+        ]
+    },
+    "2024-12-03": {
+        "version": "1.2.3",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "优化推荐游戏列表、FAQ样式",
+            "修复导航菜单过多时导致子菜单位置不正确的问题",
+            "修复隐私政策和用户协议菜单页面导致的过多404地址出现的问题",
+            "解决推荐游戏列表为空时右侧会出现空白的问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/privacy-policy/page.tsx",
+            "app/[locale]/(public)/terms-of-services/page.tsx",
+            "app/[locale]/(public)/views/FAQs.tsx",
+            "app/[locale]/(public)/views/Features.tsx",
+            "app/[locale]/(public)/views/GameRecommendationCard.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "app/[locale]/(public)/views/RelatedVideo.tsx",
+            "app/[locale]/(public)/views/SectionWrapper.tsx",
+            "app/globals.css",
+            "lib/components/games-template/page.tsx",
+            "lib/components/navbar.tsx"
+        ]
+    },
+    "2024-11-29 20": {
+        "version": "1.2.2",
+        "messagesKeyModify": true,
+        "changeLog": [
+            "修复子游戏国际化内容文件路径加载不正确的问题"
+        ],
+        "modify": [
+            "i18n.ts"
+        ]
+    },
+    "2024-11-29 18": {
+        "version": "1.2.1",
+        "messagesKeyModify": true,
+        "changeLog": [
+            "修复子游戏国际化内容加载不正确"
+        ],
+        "modify": [
+            "i18n.ts"
+        ]
+    },
+    "2024-11-29": {
+        "version": "1.1.21",
+        "messagesKeyModify": true,
+        "changeLog": [
+            "新增游戏列表页面",
+            "优化多个组件的性能和功能",
+            "更新导航栏组件",
+            "更新资源工具函数",
+            "更新游戏页面模板消息"
+        ],
+        "add": [
+            "app/[locale]/(public)/games/page.tsx"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/Comments.tsx",
+            "app/[locale]/(public)/views/FAQs.tsx",
+            "app/[locale]/(public)/views/GameRecommendationCard.tsx",
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "lib/components/navbar.tsx",
+            "lib/utils/resource.ts",
+            "messages/game_page_template.json"
+        ]
+    },
+    "2024-11-28 19": {
+        "version": "1.1.20",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "增加弹窗方式显示游戏页面，解决无法嵌入iframe的问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "messages/game_page_template.json"
+        ],
+        "add": [
+            "app/[locale]/(public)/views/PopupWindows.tsx"
+        ]
+    },
+    "2024-11-28": {
+        "version": "1.1.19",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复下载站多出h1标签的问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/DownloadGame.tsx"
+        ]
+    },
+    "2024-11-25": {
+        "version": "1.1.18",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复Google Adsense 配置缺失导致编译报错"
+        ],
+        "modify": [
+            "lib/types/site.ts"
+        ]
+    },
+    "2024-11-23 17": {
+        "version": "1.1.17",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复推特组件不显示问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/Comments.tsx"
+        ]
+    },
+    "2024-11-23 16": {
+        "version": "1.1.16",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "自动更新原来已经添加过的游戏页面的模板"
+        ],
+        "breakingChange": [
+            "lib/components/games-template/page.tsx"
+        ]
+    },
+    "2024-11-23 11": {
+        "version": "1.1.15",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "删除guide页面,统一采用自定义页面功能",
+            "修改导航栏在手机下样式不匹配，链接不正确问题",
+            "更新站点配置文件，增加google adsense配置"
+        ],
+        "modify": [
+            "app/[locale]/(public)/layout.tsx",
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "lib/components/navbar.tsx",
+            "lib/config/site.json",
+            "lib/types/site.ts"
+        ]
+    },
+    "2024-11-23 10": {
+        "version": "1.1.14",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决子游戏模板编译不正确问题"
+        ],
+        "modify": [
+            "lib/components/games-template/page.tsx"
+        ]
+    },
+    "2024-11-23": {
+        "version": "1.1.13",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决配置下载游戏页面显示404的问题",
+            "优化loading组件样式，改为黑色背景",
+            "去掉默认的游戏推荐数据"
+        ],
+        "modify": [
+            "app/[locale]/(public)/loading.tsx",
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/views/DownloadGame.tsx"
+        ]
+    },
+    "2024-11-19 20": {
+        "version": "1.1.12",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复多语言下出现路径不正确导致google抓取404的问题"
+        ],
+        "modify": [
+            "lib/components/locale-dropdown.tsx"
+        ]
+    },
+    "2024-11-19 17": {
+        "version": "1.1.11",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复子游戏iframe无法加载正确地址的问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/IframeSection.tsx"
+        ]
+    },
+    "2024-11-19 16": {
+        "version": "1.1.10",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复游戏推荐组件不显示的问题",
+            "支持设置游戏推荐位置"
+        ],
+        "modify": [
+            "app/[locale]/(public)/layout.tsx",
+            "app/[locale]/(public)/views/GameRecommendationCard.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "lib/types/site.ts"
+        ]
+    },
+    "2024-11-19": {
+        "version": "1.1.9",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复游戏推荐卡片组件",
+            "更新FAQ和Features组件",
+            "更新站点类型定义"
+        ],
+        "modify": [
+            "app/[locale]/(public)/views/FAQs.tsx",
+            "app/[locale]/(public)/views/Features.tsx",
+            "app/[locale]/(public)/views/GameRecommendationCard.tsx",
+            "lib/types/site.ts"
+        ],
+        "add": [
+            "lib/components/games-template/config/user-input-text.md"
+        ]
+    },
+    "2024-11-18 17": {
+        "version": "1.1.8",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "添加缺失的模板文件"
+        ],
+        "add": [
+            "lib/components/games-template/config/config.json",
+            "lib/components/games-template/config/faqs/en.json",
+            "messages/game_page_template.json",
+            "lib/components/games-template/config/user-input-text.md"
+        ]
+    },
+    "2024-11-18 09": {
+        "version": "1.1.7",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "解决编译报错"
+        ],
+        "modify": [
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/views/Comments.tsx",
+            "lib/components/games-template/page.tsx",
+            "lib/components/games-template/config/config.json",
+            "lib/components/games-template/config/faqs/en.json"
+        ]
+    },
+    "2024-11-18": {
+        "version": "1.1.6",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复多个页面组件的问题国际化不正确的问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/views/Comments.tsx",
+            "app/[locale]/(public)/views/DownloadGame.tsx",
+            "app/[locale]/(public)/views/FAQs.tsx",
+            "app/[locale]/(public)/views/Features.tsx",
+            "app/[locale]/(public)/views/IframeActions.tsx",
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "app/[locale]/(public)/views/RelatedVideo.tsx"
+        ]
+    },
+    "2024-11-16": {
+        "version": "1.1.5",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "增加新建子游戏页面模板功能",
+            "增加右侧游戏推荐功能",
+            "优化游戏页面布局"
+        ],
+        "add": [
+            "app/[locale]/(public)/views/GameRecommendationCard.tsx",
+            "lib/config/game-page-messages.json",
+            "lib/utils/resource.ts",
+            "messages/en/games/demo.json",
+            "resources/right-games/en.json"
+        ],
+        "modify": [
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/views/DownloadGame.tsx",
+            "app/[locale]/(public)/views/FAQs.tsx",
+            "app/[locale]/(public)/views/Features.tsx",
+            "app/[locale]/(public)/views/IframeActions.tsx",
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "app/[locale]/(public)/views/Recommendation.tsx",
+            "app/[locale]/(public)/views/RelatedVideo.tsx",
+            "i18n.ts",
+            "lib/config/site.ts",
+            "lib/types/site.ts",
+            "resources/recommendation/en.json"
+        ]
+    },
+    "2024-11-12": {
+        "version": "1.1.4",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修复plausible统计不正确的问题",
+            "修复MP4视频无法播放，不显示标题的问题"
+        ],
+        "modify": [
+            "app/[locale]/(public)/layout.tsx",
+            "app/[locale]/(public)/views/RelatedVideo.tsx"
+        ]
+    },
+    "2024-11-11 20:00": {
+        "version": "1.1.3",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "更新sitemap.xml文件,修复地址不正确的问题"
+        ],
+        "modify": [
+            "app/sitemap.xml",
+            "lib/config/site.json"
+        ]
+    },
+    "2024-11-11 19:00": {
+        "version": "1.1.2",
+        "messagesKeyModify": false,
+        "changeLog": [
+            "修改site.ts 默认类型，防止老网站配置不正确导致编译报错"
+        ],
+        "modify": [
+            "lib/types/site.ts"
+        ]
+    },
+    "2024-11-11": {
+        "version": "1.1.1",
+        "messagesKeyModify": true,
+        "changeLog": [
+            "增加直接跳转到其他可在线玩游戏的网站地址，用于某些游戏无法嵌入的情况。",
+            "针对下载游戏的网站，增加了多个平台下载按钮，以及可以设置下载背景图片或视频。",
+            "更改site.ts结构，增加模板更新机制",
+            "解决多语言切换问题，切换到中文后无法切换到英文",
+            "优化移动端适配",
+            "增加clarity统计",
+            "增加google ads.txt文件"
+        ],
+        "delete": [
+            "app/[locale]/(public)/views/FallbackView.tsx"
+        ],
+        "add": [
+            "app/[locale]/(public)/views/DownloadGame.tsx",
+            "lib/config/default.json",
+            "public/ads.txt"
+        ],
+        "modify": [
+            "lib/types/site.ts",
+            "next.config.ts",
+            "README.md",
+            "lib/components/footer.tsx",
+            "tailwind.config.ts",
+            "app/[locale]/(public)/page.tsx",
+            "app/[locale]/(public)/views/IframeSection.tsx",
+            "lib/components/locale-dropdown.tsx",
+            "lib/components/navbar.tsx",
+            "app/[locale]/(public)/layout.tsx"
+        ],
+        "breakingChange": [
+            "lib/config/site.json",
+            "lib/config/site.ts"
+        ]
+    }
+}
