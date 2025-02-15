@@ -1,0 +1,33 @@
+{
+  "recommended": [
+  ],
+  "categories": [
+    {
+      "name": "Featured Games",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "We have selected the best games for you!"
+    },
+    {
+      "name": "Action Games",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "vertical",
+      "icon": "",
+      "description": "Exciting action games!"
+    },
+    {
+      "name": "Sports Games",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Exciting sports games!"
+    }
+  ]
+}

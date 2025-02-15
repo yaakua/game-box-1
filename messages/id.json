@@ -1,0 +1,75 @@
+{
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "Loading": {
+    "title": ""
+  },
+  "Navbar": {
+    "title": "Navigasi"
+  },
+  "Common": {
+    "createAt": "Dibuat Pada",
+    "guide": "Panduan",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfServices": "Syarat Layanan",
+    "text": "Konten",
+    "help": "Bantuan",
+    "friendlyLinks": "Tautan Ramah",
+    "articleList": "Daftar Artikel",
+    "home": "Beranda",
+    "next": "Selanjutnya",
+    "previous": "Sebelumnya"
+  },
+  "HomeIframe": {
+    "title": "",
+    "description": "",
+    "iframeTitle": "Prabaca Permainan",
+    "fullscreenButton": "Layar Penuh",
+    "shareButton": "Bagikan",
+    "urlCopied": "URL telah disalin ke papan klip!",
+    "downloadGame": "Unduh Permainan",
+    "playGame": "Mainkan Permainan"
+  },
+  "HomeFeatures": {
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "Cara Bermain",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "Fitur Utama",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
+  },
+  "HomeFAQs": {
+    "title": "FAQ"
+  },
+  "HomeRelatedVideo": {
+    "title": "Video Permainan"
+  },
+  "HomeRecommendation": {
+    "title": "Rekomendasi"
+  },
+  "HomeComments": {
+    "title": "Komentar Permainan"
+  },
+  "GamePage": {
+    "title": "Semua Permainan",
+    "description": "Semua Permainan",
+    "games": "Permainan"
+  },
+  "CategoryPage": {
+    "categories": "Kategori",
+    "noCategories": "Tidak ada kategori ditemukan",
+    "viewMore": "Lihat Lebih Banyak",
+    "page": "Halaman"
+  }
+}

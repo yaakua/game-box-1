@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100">
+  <rect width="100%" height="100%" fill="none"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="bold">
+    <tspan fill="#FF4500">Sprunki</tspan>
+    <tspan dx="5" fill="#008000">Infected</tspan>
+  </text>
+</svg>

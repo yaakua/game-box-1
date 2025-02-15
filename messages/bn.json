@@ -1,0 +1,75 @@
+{
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "Loading": {
+    "title": ""
+  },
+  "Navbar": {
+    "title": "নেভিগেশন"
+  },
+  "Common": {
+    "createAt": "তৈরি তারিখ",
+    "guide": "গাইড",
+    "privacyPolicy": "গোপনীয়তা নীতি",
+    "termsOfServices": "সেবার শর্তাবলী",
+    "text": "বিষয়বস্তু",
+    "help": "সাহায্য",
+    "friendlyLinks": "বন্ধুত্বপূর্ণ লিঙ্ক",
+    "articleList": "নিবন্ধ তালিকা",
+    "home": "হোম",
+    "next": "পরবর্তী",
+    "previous": "পূর্ববর্তী"
+  },
+  "HomeIframe": {
+    "title": "",
+    "description": "",
+    "iframeTitle": "গেম প্রিভিউ",
+    "fullscreenButton": "পূর্ণ স্ক্রীন",
+    "shareButton": "শেয়ার করুন",
+    "urlCopied": "URL ক্লিপবোর্ডে কপি করা হয়েছে!",
+    "downloadGame": "গেম ডাউনলোড করুন",
+    "playGame": "গেম খেলুন"
+  },
+  "HomeFeatures": {
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "কিভাবে খেলবেন",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "মূল বৈশিষ্ট্য",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
+  },
+  "HomeFAQs": {
+    "title": "প্রশ্নাবলী"
+  },
+  "HomeRelatedVideo": {
+    "title": "গেম ভিডিও"
+  },
+  "HomeRecommendation": {
+    "title": "সুপারিশ"
+  },
+  "HomeComments": {
+    "title": "খেলার মন্তব্য"
+  },
+  "GamePage": {
+    "title": "সমস্ত গেম",
+    "description": "সমস্ত গেম",
+    "games": "গেম"
+  },
+  "CategoryPage": {
+    "categories": "শ্রেণী",
+    "noCategories": "কোনো শ্রেণী পাওয়া যায়নি",
+    "viewMore": "আরও দেখুন",
+    "page": "পাতা"
+  }
+}

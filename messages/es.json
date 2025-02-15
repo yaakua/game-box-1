@@ -1,0 +1,70 @@
+{
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "Loading": {
+    "title": ""
+  },
+  "Navbar": {
+    "title": "Navegación"
+  },
+  "Common": {
+    "createAt": "Creado En",
+    "guide": "Guía",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfServices": "Términos de Servicio",
+    "text": "Contenido",
+    "help": "Ayuda",
+    "friendlyLinks": "Enlaces Amigables",
+    "articleList": "Lista de Artículos",
+    "home": "Inicio",
+    "next": "Siguiente",
+    "previous": "Anterior"
+  },
+  "HomeIframe": {
+    "title": "",
+    "description": "",
+    "iframeTitle": "Vista Previa del Juego",
+    "fullscreenButton": "Pantalla Completa",
+    "shareButton": "Compartir",
+    "urlCopied": "¡URL copiada al portapapeles!",
+    "downloadGame": "Descargar Juego",
+    "playGame": "Jugar"
+  },
+  "HomeFeatures": {
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "Cómo Jugar",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "Características Clave",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
+  },
+  "HomeFAQs": {
+    "title": "Preguntas Frecuentes"
+  },
+  "HomeRelatedVideo": {
+    "title": "Video del Juego"
+  },
+  "HomeRecommendation": {
+    "title": "Recomendaciones"
+  },
+  "HomeComments": {
+    "title": "Comentarios del Juego"
+  },
+  "CategoryPage": {
+    "categories": "Categorías",
+    "noCategories": "No se encontraron categorías",
+    "viewMore": "Ver más",
+    "page": "Página"
+  }
+}

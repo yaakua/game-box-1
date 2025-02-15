@@ -1,0 +1,153 @@
+{
+  "name": "Sprunki Retake",
+  "slogan": "slogan",
+  "domain": "https://sprunkiretake.fun",
+  "icon": "/favicon.ico",
+  "appleIcon": "/apple-touch-icon.png",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gaId": "G-XXXXXXXXXX",
+  "clarityId": "",
+  "plausible": "https://app.pageview.app/js/script.js",
+  "navbarItems": [
+    {
+      "title": "home",
+      "href": "/"
+    },
+    {
+      "title": "guide",
+      "href": "/guide"
+    },
+    {
+      "title": "information",
+      "href": "/t"
+    }
+  ],
+  "gameType": "popup",
+  "gameIframeUrl": "https://scratch.mit.edu/projects/1090434936/embed",
+  "gameRedirectUrl": "",
+  "bgType": "image",
+  "bgImage": "https://www.liarsbar.net/_next/image?url=https%3A%2F%2Fpub-7589a897b34045d6986ae76394f87b7b.r2.dev%2Fbar-background.webp&w=640&q=75",
+  "bgVideo": "https://www.youtube.com/watch?v=vhVUK0Ihhw4",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "https://www.baidu.com",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": true,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "Incredibox Sprunki Retake - Sprunki Mods",
+      "url": "https://www.youtube.com/watch?v=S6qFoXRj7BU"
+    },
+    {
+      "title": "Hurdling Dead End | Sprunki Retake",
+      "url": "https://www.youtube.com/watch?v=RDZpUzqyJ2o"
+    },
+    {
+      "title": "Incredibox Sprunki Retake | Sprunki Normal vs Horror",
+      "url": "https://www.youtube.com/watch?v=vhVUK0Ihhw4"
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "Lorenz S.",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Lorenz S..png",
+      "content": "This game is so much fun! I love the new sounds and characters in the Sprunki Retake mod. It's like the original Incredibox, but even better! "
+    },
+    {
+      "author": "Ben Stephens — ??️/acc",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Ben Stephens — ??️/acc.png",
+      "content": "I'm a huge fan of the Incredibox series, and the Sprunki Retake mod is a great addition. The new tracks are amazing, and the graphics are really cool too."
+    },
+    {
+      "author": "MK",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/MK.png",
+      "content": "I can't get enough of Incredibox! The Sprunki Retake mod is a must-play for fans of the original game. The new sounds and characters are a blast."
+    },
+    {
+      "author": "Packy McCormick",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Packy McCormick.png",
+      "content": "I love the creativity that goes into making these music mixes in Incredibox. The Sprunki Retake mod takes it to a whole new level."
+    },
+    {
+      "author": "Lex Fridman",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Lex Fridman.png",
+      "content": "The Sprunki Retake mod is a great way to unwind and de-stress. The music is so catchy, and it's really easy to lose yourself in the creative process."
+    },
+    {
+      "author": "Mike Taylor",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Mike Taylor.png",
+      "content": "I've been playing Incredibox for years, and the Sprunki Retake mod is one of the best updates yet. The new sounds and characters are a great addition to the game."
+    }
+  ],
+  "isShowRecommendation": true,
+  "friendLinks": [
+    {
+      "title": "spunky game",
+      "url": "https://spunkygame.online"
+    }
+  ],
+  "gameDownloadBg": "",
+  "gameDownloadUrl": "",
+  "recommendations": {
+    "en": [
+      {
+        "title": "Escape Road",
+        "cover": "https://escaperoad.online/game_screenshot.webp",
+        "url": "https://escaperoad.online",
+        "gameUrl": "https://escaperoad.online",
+        "imageUrl": "https://escaperoad.online/game_screenshot.webp"
+      },
+      {
+        "title": "My Femboy Roommate",
+        "imageUrl": "https://bad2bad.com/game_screenshot.webp",
+        "gameUrl": "https://bad2bad.com/",
+        "url": "https://myfemboyroomate.online/",
+        "cover": "https://myfemboyroomate.online/game_screenshot.webp"
+      },
+      {
+        "title": "Block Blast 3D",
+        "imageUrl": "https://block-blast.fun/game_screenshot.webp",
+        "gameUrl": "https://block-blast.fun/",
+        "cover": "https://block-blast.fun/game_screenshot.webp",
+        "url": "https://block-blast.fun/"
+      }
+    ]
+  },
+  "faviconBgColor": "#3e2723",
+  "faviconTextColor": "#ffeb3b",
+  "faviconText": "SR",
+  "enablePromotion": true,
+  "selectedMaterial": {
+    "type": "video",
+    "ratio": "16:9",
+    "size": "1080x608",
+    "materialUrl": "https://youtu.be/4txANWeI4kY",
+    "clickUrl": "https://www.heartvoicegifts.com?utm_campaign=AF-FaFaFa-5196&utm_medium=FaFaFa",
+    "title": "Personalized Bobblehead Video"
+  }
+}

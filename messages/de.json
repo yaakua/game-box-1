@@ -1,0 +1,75 @@
+{
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "Loading": {
+    "title": ""
+  },
+  "Navbar": {
+    "title": "Navigation"
+  },
+  "Common": {
+    "createAt": "Erstellt am",
+    "guide": "Leitfaden",
+    "privacyPolicy": "Datenschutzbestimmungen",
+    "termsOfServices": "Nutzungsbedingungen",
+    "text": "Inhalt",
+    "help": "Hilfe",
+    "friendlyLinks": "Freundliche Links",
+    "articleList": "Artikelliste",
+    "home": "Startseite",
+    "next": "Weiter",
+    "previous": "Zurück"
+  },
+  "HomeIframe": {
+    "title": "",
+    "description": "",
+    "iframeTitle": "Spielvorschau",
+    "fullscreenButton": "Vollbild",
+    "shareButton": "Teilen",
+    "urlCopied": "URL in die Zwischenablage kopiert!",
+    "downloadGame": "Spiel herunterladen",
+    "playGame": "Spiel spielen"
+  },
+  "HomeFeatures": {
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "So spielt man",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "Hauptmerkmale",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
+  },
+  "HomeFAQs": {
+    "title": "Häufige Fragen"
+  },
+  "HomeRelatedVideo": {
+    "title": "Spielvideo"
+  },
+  "HomeRecommendation": {
+    "title": "Empfehlungen"
+  },
+  "HomeComments": {
+    "title": "Spielkommentare"
+  },
+  "GamePage": {
+    "title": "Alle Spiele",
+    "description": "Alle Spiele",
+    "games": "Spiele"
+  },
+  "CategoryPage": {
+    "categories": "Kategorien",
+    "noCategories": "Keine Kategorien gefunden",
+    "viewMore": "Mehr anzeigen",
+    "page": "Seite"
+  }
+}

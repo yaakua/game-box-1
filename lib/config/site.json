@@ -1,0 +1,60 @@
+{
+  "name": "",
+  "slogan": "slogan",
+  "domain": "",
+  "icon": "/favicon.ico",
+  "appleIcon": "/apple-touch-icon.png",
+  "templateType":"single-game",
+  "theme": {
+    "name":"dark",
+    "headFont": "Arial, sans-serif",
+    "primaryColor": "#007bff",
+    "fontColor": "#333333",
+    "backgroundColor": "#ffffff"
+  },
+  "gaId": "",
+  "clarityId": "",
+  "plausible": "",
+  "gameType": "iframe",
+  "gameIframeUrl": "",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "friendLinks":[],
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "",
+      "role": "",
+      "content": "",
+      "avatar": ""
+    }
+  ],
+  "isShowRecommendation": true,
+  "enablePromotion": false,
+  "customizeFeatures": true
+}

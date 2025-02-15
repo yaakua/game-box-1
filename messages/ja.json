@@ -1,0 +1,75 @@
+{
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "Loading": {
+    "title": "読み込み中"
+  },
+  "Navbar": {
+    "title": "ナビゲーション"
+  },
+  "Common": {
+    "createAt": "作成日時",
+    "guide": "ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfServices": "利用規約",
+    "text": "コンテンツ",
+    "help": "ヘルプ",
+    "friendlyLinks": "関連リンク",
+    "articleList": "記事リスト",
+    "home": "ホーム",
+    "next": "次へ",
+    "previous": "前へ"
+  },
+  "HomeIframe": {
+    "title": "",
+    "description": "",
+    "iframeTitle": "ゲームプレビュー",
+    "fullscreenButton": "全画面",
+    "shareButton": "共有",
+    "urlCopied": "URLがクリップボードにコピーされました！",
+    "downloadGame": "ゲームをダウンロード",
+    "playGame": "ゲームをプレイ"
+  },
+  "HomeFeatures": {
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "遊び方",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "主な機能",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
+  },
+  "HomeFAQs": {
+    "title": "よくある質問"
+  },
+  "HomeRelatedVideo": {
+    "title": "ゲーム動画"
+  },
+  "HomeRecommendation": {
+    "title": "おすすめ"
+  },
+  "HomeComments": {
+    "title": "プレイコメント"
+  },
+  "GamePage": {
+    "title": "すべてのゲーム",
+    "description": "すべてのゲーム",
+    "games": "ゲーム"
+  },
+  "CategoryPage": {
+    "categories": "カテゴリ",
+    "noCategories": "カテゴリが見つかりません",
+    "viewMore": "さらに表示",
+    "page": "ページ"
+  }
+}

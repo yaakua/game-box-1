@@ -1,0 +1,75 @@
+{
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "Loading": {
+    "title": ""
+  },
+  "Navbar": {
+    "title": "내비게이션"
+  },
+  "Common": {
+    "createAt": "생성일",
+    "guide": "가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfServices": "서비스 약관",
+    "text": "내용",
+    "help": "도움",
+    "friendlyLinks": "친절한 링크",
+    "articleList": "게시물 목록",
+    "home": "홈",
+    "next": "다음",
+    "previous": "이전"
+  },
+  "HomeIframe": {
+    "title": "",
+    "description": "",
+    "iframeTitle": "게임 미리보기",
+    "fullscreenButton": "전체 화면",
+    "shareButton": "공유",
+    "urlCopied": "URL이 클립보드에 복사되었습니다!",
+    "downloadGame": "게임 다운로드",
+    "playGame": "게임하기"
+  },
+  "HomeFeatures": {
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "게임 방법",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "주요 기능",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
+  },
+  "HomeFAQs": {
+    "title": "자주 묻는 질문"
+  },
+  "HomeRelatedVideo": {
+    "title": "게임 비디오"
+  },
+  "HomeRecommendation": {
+    "title": "추천"
+  },
+  "HomeComments": {
+    "title": "플레이 댓글"
+  },
+  "GamePage": {
+    "title": "모든 게임",
+    "description": "모든 게임",
+    "games": "게임"
+  },
+  "CategoryPage": {
+    "categories": "카테고리",
+    "noCategories": "카테고리를 찾을 수 없습니다",
+    "viewMore": "자세히 보기",
+    "page": "페이지"
+  }
+}

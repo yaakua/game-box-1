@@ -1,0 +1,75 @@
+{
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "Loading": {
+    "title": ""
+  },
+  "Navbar": {
+    "title": "Navegação"
+  },
+  "Common": {
+    "createAt": "Erstellt am",
+    "guide": "Anleitung",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfServices": "Nutzungsbedingungen",
+    "text": "Inhalt",
+    "help": "Hilfe",
+    "friendlyLinks": "Freundliche Links",
+    "articleList": "Artikelübersicht",
+    "home": "Início",
+    "next": "Próximo",
+    "previous": "Anterior"
+  },
+  "HomeIframe": {
+    "title": "",
+    "description": "",
+    "iframeTitle": "Pré-visualização do Jogo",
+    "fullscreenButton": "Tela Cheia",
+    "shareButton": "Compartilhar",
+    "urlCopied": "URL copiado para a área de transferência!",
+    "downloadGame": "Baixar Jogo",
+    "playGame": "Jogar"
+  },
+  "HomeFeatures": {
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "Como Jogar",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "Principais Recursos",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
+  },
+  "HomeFAQs": {
+    "title": "Perguntas Frequentes"
+  },
+  "HomeRelatedVideo": {
+    "title": "Vídeo do Jogo"
+  },
+  "HomeRecommendation": {
+    "title": "Recomendações"
+  },
+  "HomeComments": {
+    "title": "Comentários sobre o Jogo"
+  },
+  "GamePage": {
+    "title": "Todos os Jogos",
+    "description": "Todos os Jogos",
+    "games": "Jogos"
+  },
+  "CategoryPage": {
+    "categories": "Categorias",
+    "noCategories": "Nenhuma categoria encontrada",
+    "viewMore": "Ver Mais",
+    "page": "Página"
+  }
+}

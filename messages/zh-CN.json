@@ -1,0 +1,75 @@
+{
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "Loading": {
+    "title": ""
+  },
+  "Navbar": {
+    "title": "Nav"
+  },
+  "Common": {
+    "createAt": "创建于",
+    "guide": "指南",
+    "privacyPolicy": "隐私政策",
+    "termsOfServices": "服务条款",
+    "text": "内容",
+    "help": "帮助",
+    "friendlyLinks": "友情链接",
+    "articleList": "文章列表",
+    "home": "首页",
+    "next": "下一页",
+    "previous": "上一页"
+  },
+  "HomeIframe": {
+    "title": "",
+    "description": "",
+    "iframeTitle": "遊戲預覽",
+    "fullscreenButton": "全螢幕",
+    "shareButton": "分享",
+    "urlCopied": "網址已複製到剪貼板!",
+    "downloadGame": "下載遊戲",
+    "playGame": "开始游戏"
+  },
+  "HomeFeatures": {
+    "gameTitle": "",
+    "whatIsTitle": "",
+    "whatIsDescription": "",
+    "howToPlayTitle": "如何遊玩",
+    "howToPlayStep1": "",
+    "howToPlayStep2": "",
+    "howToPlayStep3": "",
+    "keyFeaturesTitle": "Key Features",
+    "feature1Title": "",
+    "feature1Description": "",
+    "feature2Title": "",
+    "feature2Description": "",
+    "feature3Title": "",
+    "feature3Description": "",
+    "feature4Title": "",
+    "feature4Description": ""
+  },
+  "HomeFAQs": {
+    "title": "FAQs"
+  },
+  "HomeRelatedVideo": {
+    "title": "Game Video"
+  },
+  "HomeRecommendation": {
+    "title": "Recommends"
+  },
+  "HomeComments": {
+    "title": "Play Comments"
+  },
+  "GamePage": {
+    "title": "All Games",
+    "description": "All Games",
+    "games": "Games"
+  },
+  "CategoryPage": {
+    "categories": "类别",
+    "noCategories": "未找到类别",
+    "viewMore": "查看更多",
+    "page": "页"
+  }
+}
