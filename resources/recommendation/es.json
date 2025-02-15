@@ -3,14 +3,21 @@
     "title": "Caja de juegos",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "Juegos de mesa",
+    "category": "juego de caja",
     "visible": true
   },
   {
-    "title": "Super Squirrel Blaster",
+    "title": "Maestro del Chakram",
+    "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739623661751-z04q6n.com/knife-io_16x9/20250211105952/knife-io_16x9-cover",
+    "url": "/games/chakram-master",
+    "category": "juego",
+    "visible": true
+  },
+  {
+    "title": "Súper Disparador de Ardillas",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739600368137-igd9xs.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover",
     "url": "/games/super-squirrel-blaster",
-    "category": "",
+    "category": "juego",
     "visible": true
   }
 ]

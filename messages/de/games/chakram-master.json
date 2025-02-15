@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "Chakram Meister",
+    "slogan": "Meistere die Kunst des Chakram!",
+    "description": "Chakram Meister ist ein zwangloses Actionspiel, bei dem Präzision und Strategie entscheidend sind! Zielen Sie mit Ihrem Chakram, werfen Sie es, um Feinde zu durchschneiden, und teleportieren Sie sich an seinen Standort mit einem zweiten Klick oder wenn er aufhört zu springen. Bewegen Sie sich, weichen Sie aus und planen Sie Ihre begrenzten Würfe sorgfältig, um Feinde auszuschalten und die Kunst des Chakram zu meistern. Können Sie der ultimative Chakram Meister werden? (Chakram Master)",
+    "Loading": {
+      "title": "Chakram Meister lädt..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Chakram Meister",
+      "description": "Chakram Meister ist ein unterhaltsames Physikspiel. Spielen Sie es direkt in Ihrem Browser, kostenlos. Das Spiel ist als freies Spiel verfügbar. Diese Seite enthält einen Abschnitt mit Steuerelementen, um Ihnen den Einstieg zu erleichtern. So können Sie leicht sehen, wie man das Spiel spielt. Das Spiel wurde mit HTML5-Technologie entwickelt, um in allen modernen Browsern problemlos zu funktionieren. Das Spiel kann im Vollbildmodus gespielt werden. Neben dem Spielen von Chakram Meister in Ihrem Browser können Sie die Chakram Meister-App auch auf Ihrem Android-Gerät installieren.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chakram Meister",
+      "whatIsTitle": "Was ist Chakram Meister?",
+      "whatIsDescription": "Chakram Meister ist ein zwangloses Actionspiel, bei dem Präzision und Strategie entscheidend sind! Zielen Sie mit Ihrem Chakram, werfen Sie es, um Feinde zu durchschneiden, und teleportieren Sie sich an seinen Standort mit einem zweiten Klick oder wenn er aufhört zu springen. Bewegen Sie sich, weichen Sie aus und planen Sie Ihre begrenzten Würfe sorgfältig, um Feinde auszuschalten und die Kunst des Chakram zu meistern.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Ziehen Sie mit der linken Maustaste an, um anzielen, und lassen Sie die Taste los, um den Chakram zu werfen.",
+      "howToPlayStep2": "Teleportieren Sie sich mit einem zweiten Klick oder wenn der Chakram aufhört zu springen.",
+      "howToPlayStep3": "Bewegen Sie sich, weichen Sie aus und planen Sie Ihre begrenzten Würfe sorgfältig, um Feinde auszuschalten.",
+      "keyFeaturesTitle": "Wichtige Funktionen",
+      "feature1Title": "Präzision und Strategie",
+      "feature1Description": "Zielen und werfen Sie Ihren Chakram präzise, um Feinde zu durchschneiden.",
+      "feature2Title": "Teleportation",
+      "feature2Description": "Teleportieren Sie sich an den Standort des Chakrums mit einem zweiten Klick oder wenn er aufhört zu springen.",
+      "feature3Title": "Vollbildmodus",
+      "feature3Description": "Spielen Sie Chakram Meister im Vollbildmodus für ein immersives Erlebnis.",
+      "feature4Title": "HTML5-Technologie",
+      "feature4Description": "Chakram Meister ist mit HTML5-Technologie entwickelt worden, um ein flüssiges Gameplay in allen modernen Browsern sicherzustellen."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

@@ -1,16 +1,23 @@
 [
   {
-    "title": "ゲームボックス",
+    "title": "ゲームボックス (Game Box)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "(Game Box)",
+    "category": "ゲーム",
     "visible": true
   },
   {
-    "title": "スーパーリスブラスター",
+    "title": "チャクラマ・マスター (Chakram Master)",
+    "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739623661751-z04q6n.com/knife-io_16x9/20250211105952/knife-io_16x9-cover",
+    "url": "/games/chakram-master",
+    "category": "アクション",
+    "visible": true
+  },
+  {
+    "title": "スーパー・リス・ブラスター (Super Squirrel Blaster )",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739600368137-igd9xs.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover",
     "url": "/games/super-squirrel-blaster",
-    "category": "(Super Squirrel Blaster)",
+    "category": "シューティング",
     "visible": true
   }
 ]

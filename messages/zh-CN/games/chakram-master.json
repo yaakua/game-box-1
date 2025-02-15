@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "《链环大师》 (Chakram Master)",
+    "slogan": "精通链环的艺术！ (Master the Art of the Chakram!)",
+    "description": "《链环大师》是一款轻松的动作游戏，精准和策略至关重要！瞄准你的链环，投掷它切割敌人，并通过第二次点击或当它停止弹跳时传送到它的位置。移动、躲闪并仔细计划你的有限投掷，清除敌人，并掌握链环的艺术。你能成为最终的链环大师吗？ (Chakram Master is a casual action game where precision and strategy are key! Aim your chakram, throw it to slice through enemies, and teleport to its location with a second click or when it stops bouncing. Move, dodge, and plan your limited throws carefully to clear out enemies and master the art of the chakram. Can you become the ultimate Chakram Master?)",
+    "Loading": {
+      "title": "正在加载《链环大师》..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "《链环大师》",
+      "description": "《链环大师》是一款有趣的物理游戏。免费在浏览器中直接玩游戏。该游戏可用作不受限制的游戏。此页面包含一个控制部分，可帮助您入门。这样，很容易看到如何玩游戏。该游戏使用 HTML5 技术，可在所有现代浏览器中顺利运行。游戏可以全屏播放。除了在浏览器中玩《链环大师》外，您还可以将《链环大师》应用程序安装到您的 Android 设备上。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《链环大师》",
+      "whatIsTitle": "什么是《链环大师》？",
+      "whatIsDescription": "《链环大师》是一款轻松的动作游戏，精准和策略至关重要！瞄准你的链环，投掷它切割敌人，并通过第二次点击或当它停止弹跳时传送到它的位置。移动、躲闪并仔细计划你的有限投掷，清除敌人，并掌握链环的艺术。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "拖动鼠标左键瞄准并释放投掷链环。",
+      "howToPlayStep2": "通过双击或链环停止弹跳时传送到它的位置。",
+      "howToPlayStep3": "移动、躲闪并仔细计划你的有限投掷，清除敌人。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "精准与策略",
+      "feature1Description": "精准瞄准并投掷链环，切割敌人。",
+      "feature2Title": "瞬移",
+      "feature2Description": "通过双击或链环停止弹跳时瞬移到它的位置。",
+      "feature3Title": "全屏模式",
+      "feature3Description": "为了沉浸式体验，在全屏模式下玩《链环大师》。",
+      "feature4Title": "HTML5 技术",
+      "feature4Description": "《链环大师》使用 HTML5 技术构建，确保所有现代浏览器都能流畅运行游戏。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "类别",
+      "noCategories": "未找到类别",
+      "viewMore": "查看更多",
+      "page": "页码"
+    }
+  }
+}

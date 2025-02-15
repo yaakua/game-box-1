@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "旋風魔術師",
+    "slogan": "精通旋風鏢術！",
+    "description": "旋風魔術師是一款休閒動作遊戲，精準度與策略至關重要！瞄準你的旋風鏢，投擲切割敵人，並在第二次點擊或旋風鏢停止彈跳時，瞬間傳送至其位置。移動、閃避並仔細計畫你的有限次投擲，清除敵人並精通旋風鏢術。你是否能成為最終的旋風魔術師？(Chakram Master)",
+    "Loading": {
+      "title": "正在載入旋風魔術師..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁",
+      "next": "下一頁",
+      "previous": "上一頁"
+    },
+    "HomeIframe": {
+      "title": "旋風魔術師",
+      "description": "旋風魔術師是一款有趣的物理遊戲。免費在瀏覽器中直接遊玩。該遊戲可用於解鎖遊戲。此頁面包含操作說明，方便您開始遊戲。這樣，您可以輕鬆地了解如何玩這個遊戲。該遊戲使用 HTML5 技術，可在所有現代瀏覽器中順利運作。此遊戲可全螢幕遊玩。除了在瀏覽器中遊玩旋風魔術師外，您還可以在 Android 設備上安裝旋風魔術師應用程式。(Chakram Master)",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "旋風魔術師",
+      "whatIsTitle": "旋風魔術師是什麼？",
+      "whatIsDescription": "旋風魔術師是一款休閒動作遊戲，精準度與策略至關重要！瞄準你的旋風鏢，投擲切割敵人，並在第二次點擊或旋風鏢停止彈跳時，瞬間傳送至其位置。移動、閃避並仔細計畫你的有限次投擲，清除敵人並精通旋風鏢術。(Chakram Master)",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "拖曳滑鼠左鍵瞄準，釋放即可投擲旋風鏢。",
+      "howToPlayStep2": "在第二次點擊或旋風鏢停止彈跳時，瞬間傳送至其位置。",
+      "howToPlayStep3": "移動、閃避並仔細計畫你的有限次投擲，清除敵人。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "精準度與策略性",
+      "feature1Description": "精準瞄準並投擲旋風鏢，切割敵人。",
+      "feature2Title": "瞬間傳送",
+      "feature2Description": "在第二次點擊或旋風鏢停止彈跳時，瞬間傳送至其位置。",
+      "feature3Title": "全螢幕模式",
+      "feature3Description": "以全螢幕模式遊玩旋風魔術師，享受沉浸式體驗。",
+      "feature4Title": "HTML5 技術",
+      "feature4Description": "旋風魔術師使用 HTML5 技術建構，確保所有現代瀏覽器都能順暢遊玩。(Chakram Master)"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    },
+    "CategoryPage": {
+      "categories": "類別",
+      "noCategories": "找不到類別",
+      "viewMore": "檢視更多",
+      "page": "頁面"
+    }
+  }
+}

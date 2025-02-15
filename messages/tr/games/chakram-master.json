@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "Chakram Ustası",
+    "slogan": "Chakram Sanatı'nı Özümseyin!",
+    "description": "Chakram Ustası, hassasiyet ve stratejinin kilit rol oynadığı bir rahatlama aksiyon oyunudur! Chakramınızı hedefleyin, düşmanları parçalamak için fırlatın ve ikinci bir tıklama veya sekme durduğunda konumuna televole edin. Düşmanları temizlemek ve chakram sanatını ustalaştırmak için sınırlı atışlarınızı dikkatlice planlayın, kaçının ve hareket edin. En büyük Chakram Ustası siz olabilir misiniz? (Chakram Master)",
+    "Loading": {
+      "title": "Chakram Ustası Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Chakram Ustası",
+      "description": "Chakram Ustası eğlenceli bir fizik oyunudur. Ücretsiz olarak tarayıcınızda doğrudan oynayın. Oyun engellenmemiş oyun olarak da mevcuttur. Başlamak için bir denetim bölümü vardır. Böylece oyunun nasıl oynanacağını kolayca görebilirsiniz. Oyun, tüm modern tarayıcılarda sorunsuz çalışması için HTML5 teknolojisiyle oluşturulmuştur. Oyun tam ekran modunda oynanabilir. Chakram Ustasını tarayıcınızda oynamanın yanı sıra Chakram Ustası uygulamasını Android cihazınıza da yükleyebilirsiniz.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chakram Ustası",
+      "whatIsTitle": "Chakram Ustası Nedir?",
+      "whatIsDescription": "Chakram Ustası, hassasiyet ve stratejinin kilit rol oynadığı bir rahatlama aksiyon oyunudur! Chakramınızı hedefleyin, düşmanları parçalamak için fırlatın ve ikinci bir tıklama veya sekme durduğunda konumuna televole edin. Düşmanları temizlemek ve chakram sanatını ustalaştırmak için sınırlı atışlarınızı dikkatlice planlayın, kaçının ve hareket edin.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Sol fare düğmesini sürükleyerek hedefleyin ve fırlatmak için bırakın.",
+      "howToPlayStep2": "İkinci bir tıklama veya sekme durduğunda chakramın konumuna televole olun.",
+      "howToPlayStep3": "Düşmanları temizlemek için sınırlı atışlarınızı dikkatlice planlayın, kaçının ve hareket edin.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Hassasiyet ve Strateji",
+      "feature1Description": "Düşmanları parçalamak için chakramınızı hassas bir şekilde hedefleyin ve fırlatın.",
+      "feature2Title": "Televole",
+      "feature2Description": "İkinci bir tıklama veya sekme durduğunda chakramın konumuna televole olun.",
+      "feature3Title": "Tam Ekran Modu",
+      "feature3Description": "Chakram Ustasını sürükleyici bir deneyim için tam ekran modunda oynayın.",
+      "feature4Title": "HTML5 Teknolojisi",
+      "feature4Description": "Chakram Ustası, tüm modern tarayıcılarda sorunsuz bir oyun deneyimi sağlayan HTML5 teknolojisiyle oluşturulmuştur."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategori bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

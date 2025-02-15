@@ -3,14 +3,21 @@
     "title": "游戏盒",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "游戏盒(Game Box)",
+    "category": "游戏盒 (Game Box)",
     "visible": true
   },
   {
-    "title": "超级松鼠突击手",
+    "title": "旋镖大师",
+    "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739623661751-z04q6n.com/knife-io_16x9/20250211105952/knife-io_16x9-cover",
+    "url": "/games/chakram-master",
+    "category": "旋镖大师 (Chakram Master)",
+    "visible": true
+  },
+  {
+    "title": "超级松鼠发射器",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739600368137-igd9xs.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover",
     "url": "/games/super-squirrel-blaster",
-    "category": "超级松鼠突击手(Super Squirrel Blaster )",
+    "category": "超级松鼠发射器 (Super Squirrel Blaster )",
     "visible": true
   }
 ]

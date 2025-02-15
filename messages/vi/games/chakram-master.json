@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "Chakram Master",
+    "slogan": "Làm chủ nghệ thuật Chakram!",
+    "description": "Chakram Master là một trò chơi hành động giải trí, trong đó sự chính xác và chiến lược là chìa khóa! Điều chỉnh chakram của bạn, ném nó để cắt qua kẻ thù và di chuyển đến vị trí của nó bằng cú nhấp chuột thứ hai hoặc khi nó ngừng nảy. Di chuyển, né tránh và lên kế hoạch cho những cú ném hạn chế của bạn một cách cẩn thận để loại bỏ kẻ thù và làm chủ nghệ thuật chakram. Bạn có thể trở thành Chakram Master tối thượng không? (Chakram Master)",
+    "Loading": {
+      "title": "Đang tải Chakram Master..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Chakram Master",
+      "description": "Chakram Master là một trò chơi vật lý thú vị. Chơi trực tiếp trên trình duyệt của bạn, miễn phí. Trò chơi có sẵn dưới dạng trò chơi không bị chặn. Trang này có phần hướng dẫn để giúp bạn bắt đầu. Nhờ vậy, việc xem cách chơi trò chơi trở nên dễ dàng hơn. Trò chơi được tạo bằng công nghệ HTML5 để hoạt động mượt mà trên tất cả các trình duyệt hiện đại. Trò chơi có thể được chơi ở chế độ toàn màn hình. Ngoài việc chơi Chakram Master trên trình duyệt, bạn cũng có thể cài đặt ứng dụng Chakram Master trên thiết bị Android của mình.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chakram Master",
+      "whatIsTitle": "Chakram Master là gì?",
+      "whatIsDescription": "Chakram Master là một trò chơi hành động giải trí, trong đó sự chính xác và chiến lược là chìa khóa! Điều chỉnh chakram của bạn, ném nó để cắt qua kẻ thù và di chuyển đến vị trí của nó bằng cú nhấp chuột thứ hai hoặc khi nó ngừng nảy. Di chuyển, né tránh và lên kế hoạch cho những cú ném hạn chế của bạn một cách cẩn thận để loại bỏ kẻ thù và làm chủ nghệ thuật chakram.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Kéo chuột trái để nhắm mục tiêu và thả để ném chakram.",
+      "howToPlayStep2": "Di chuyển đến vị trí của chakram bằng cú nhấp chuột thứ hai hoặc khi nó ngừng nảy.",
+      "howToPlayStep3": "Di chuyển, né tránh và lên kế hoạch cho những cú ném hạn chế của bạn một cách cẩn thận để loại bỏ kẻ thù.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Chính xác & Chiến lược",
+      "feature1Description": "Nhắm và ném chakram của bạn một cách chính xác để cắt qua kẻ thù.",
+      "feature2Title": "Truyền tống",
+      "feature2Description": "Truyền tống đến vị trí của chakram bằng cú nhấp chuột thứ hai hoặc khi nó ngừng nảy.",
+      "feature3Title": "Chế độ toàn màn hình",
+      "feature3Description": "Chơi Chakram Master ở chế độ toàn màn hình để trải nghiệm chân thực hơn.",
+      "feature4Title": "Công nghệ HTML5",
+      "feature4Description": "Chakram Master được xây dựng bằng công nghệ HTML5, đảm bảo trải nghiệm chơi game mượt mà trên tất cả các trình duyệt hiện đại."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

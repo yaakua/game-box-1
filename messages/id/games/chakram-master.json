@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "Chakram Master",
+    "slogan": "Kuasai Seni Chakram!",
+    "description": "Chakram Master adalah permainan aksi kasual di mana ketepatan dan strategi sangat penting! Arahkan chakram Anda, lempar untuk mengiris musuh, dan teleportasi ke lokasinya dengan klik kedua atau saat berhenti memantul. Bergerak, menghindar, dan rencanakan lemparan terbatas Anda dengan cermat untuk membersihkan musuh dan menguasai seni chakram. Dapatkah Anda menjadi Chakram Master sejati?(Chakram Master)",
+    "Loading": {
+      "title": "Memuat Chakram Master..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Chakram Master",
+      "description": "Chakram Master adalah permainan fisika yang menyenangkan. Mainkan langsung di browser Anda, gratis. Permainan ini tersedia sebagai permainan yang tidak diblokir. Halaman ini memiliki bagian kontrol untuk memulai Anda. Dengan begitu, mudah untuk melihat bagaimana cara memainkan permainan. Permainan ini dibuat dengan teknologi HTML5 agar berfungsi tanpa masalah di semua browser modern. Permainan ini dapat dimainkan dalam mode layar penuh. Selain memainkan Chakram Master di browser Anda, Anda juga dapat menginstal aplikasi Chakram Master di perangkat Android Anda.",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke papan klip!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chakram Master",
+      "whatIsTitle": "Apa itu Chakram Master?",
+      "whatIsDescription": "Chakram Master adalah permainan aksi kasual di mana ketepatan dan strategi sangat penting! Arahkan chakram Anda, lempar untuk mengiris musuh, dan teleportasi ke lokasinya dengan klik kedua atau saat berhenti memantul. Bergerak, menghindar, dan rencanakan lemparan terbatas Anda dengan cermat untuk membersihkan musuh dan menguasai seni chakram.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Seret tombol mouse kiri untuk membidik dan lepaskan untuk melempar chakram.",
+      "howToPlayStep2": "Teleportasi ke lokasi chakram dengan klik kedua atau saat berhenti memantul.",
+      "howToPlayStep3": "Bergerak, menghindar, dan rencanakan lemparan terbatas Anda dengan cermat untuk membersihkan musuh.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Ketepatan & Strategi",
+      "feature1Description": "Bidik dan lempar chakram Anda dengan presisi untuk mengiris musuh.",
+      "feature2Title": "Teleportasi",
+      "feature2Description": "Teleportasi ke lokasi chakram dengan klik kedua atau saat berhenti memantul.",
+      "feature3Title": "Mode Layar Penuh",
+      "feature3Description": "Mainkan Chakram Master dalam mode layar penuh untuk pengalaman yang imersif.",
+      "feature4Title": "Teknologi HTML5",
+      "feature4Description": "Chakram Master dibuat dengan teknologi HTML5, memastikan gameplay mulus di semua browser modern."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

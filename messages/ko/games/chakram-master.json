@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "제이크람 마스터",
+    "slogan": "제이크람의 기술을 마스터하세요!",
+    "description": "제이크람 마스터는 정밀성과 전략이 중요한 캐주얼 액션 게임입니다! 제이크람을 조준하여 적을 베고, 두 번째 클릭이나 튕기는 것을 멈추면 그 위치로 순간이동하세요. 이동, 회피, 그리고 제한된 던지기로 적을 제거하고 제이크람의 기술을 마스터하세요. 최고의 제이크람 마스터가 될 수 있을까요? (Chakram Master)",
+    "Loading": {
+      "title": "제이크람 마스터 로딩 중..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "제이크람 마스터",
+      "description": "제이크람 마스터는 재미있는 물리 기반 게임입니다. 무료로 브라우저에서 바로 플레이하세요. 게임은 차단되지 않은 게임으로 제공됩니다. 게임을 시작하기 위한 컨트롤 섹션이 있습니다. 그래서 게임을 어떻게 플레이해야 하는지 쉽게 알 수 있습니다. 이 게임은 모든 최신 브라우저에서 문제없이 작동하도록 HTML5 기술로 제작되었습니다. 게임은 전화 화면 모드로 플레이할 수 있습니다. 브라우저에서 제이크람 마스터를 플레이하는 것 외에도 안드로이드 기기에 제이크람 마스터 앱을 설치할 수도 있습니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "제이크람 마스터",
+      "whatIsTitle": "제이크람 마스터는 무엇인가요?",
+      "whatIsDescription": "제이크람 마스터는 정밀성과 전략이 중요한 캐주얼 액션 게임입니다! 제이크람을 조준하여 적을 베고, 두 번째 클릭이나 튕기는 것을 멈추면 그 위치로 순간이동하세요. 이동, 회피, 그리고 제한된 던지기로 적을 제거하고 제이크람의 기술을 마스터하세요. (Chakram Master)",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "왼쪽 마우스 버튼을 끌어서 조준하고, 놓아서 제이크람을 던지세요.",
+      "howToPlayStep2": "두 번째 클릭이나 튕기는 것을 멈추면 제이크람의 위치로 순간이동합니다.",
+      "howToPlayStep3": "이동, 회피, 그리고 제한된 던지기로 적을 제거하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "정밀성 & 전략",
+      "feature1Description": "적을 베기 위해 정확하게 제이크람을 조준하고 던지세요.",
+      "feature2Title": "순간이동",
+      "feature2Description": "두 번째 클릭이나 튕기는 것을 멈추면 제이크람의 위치로 순간이동하세요.",
+      "feature3Title": "전체 화면 모드",
+      "feature3Description": "몰입감 있는 경험을 위해 제이크람 마스터를 전체 화면 모드로 플레이하세요.",
+      "feature4Title": "HTML5 기술",
+      "feature4Description": "제이크람 마스터는 모든 최신 브라우저에서 원활한 게임 플레이를 보장하는 HTML5 기술로 제작되었습니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임들"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더 보기",
+      "page": "페이지"
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "チャクラママスター",
+    "slogan": "チャクラマの達人になろう！",
+    "description": "チャクラママスターは、正確さと戦略が重要なカジュアルアクションゲームです！チャクラマを目標に合わせ、敵を斬り裂くように投げ、2度目のクリックまたは跳ね返りが止まったらその場所にテレポートさせます。移動、回避、そして限られた投げを慎重に計画し、敵を倒し、チャクラマの達人になれますか？(Chakram Master)",
+    "Loading": {
+      "title": "チャクラママスター読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "チャクラママスター",
+      "description": "チャクラママスターは、楽しい物理学ゲームです。ブラウザで直接無料でプレイできます。このゲームは、ブロックされていないゲームとして利用可能です。このページには、ゲームを始めるための操作方法セクションがあります。ゲームのプレイ方法を簡単に見ることができます。このゲームはHTML5技術で作成されており、すべての最新のブラウザで問題なく動作します。ゲームはフルスクリーンでもプレイできます。ブラウザでチャクラママスターをプレイする以外にも、Androidデバイスにチャクラママスターアプリをインストールすることもできます。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "チャクラママスター",
+      "whatIsTitle": "チャクラママスターとは？",
+      "whatIsDescription": "チャクラママスターは、正確さと戦略が重要なカジュアルアクションゲームです！チャクラマを目標に合わせ、敵を斬り裂くように投げ、2度目のクリックまたは跳ね返りが止まったらその場所にテレポートさせます。移動、回避、そして限られた投げを慎重に計画し、敵を倒し、チャクラマの技術を習得しましょう。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "左マウスボタンをドラッグして目標を合わせ、離すとチャクラマを投げます。",
+      "howToPlayStep2": "2度目のクリックまたは跳ね返りが止まったら、チャクラマの位置にテレポートします。",
+      "howToPlayStep3": "移動、回避、そして限られた投げを慎重に計画し、敵を倒しましょう。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "正確さと戦略",
+      "feature1Description": "正確にチャクラマを目標に合わせ、敵を斬り裂くように投げましょう。",
+      "feature2Title": "テレポート機能",
+      "feature2Description": "2度目のクリックまたは跳ね返りが止まったら、チャクラマの位置にテレポートします。",
+      "feature3Title": "フルスクリーンモード",
+      "feature3Description": "没入感のある体験のために、チャクラママスターをフルスクリーンモードでプレイします。",
+      "feature4Title": "HTML5技術",
+      "feature4Description": "チャクラママスターはHTML5技術で構築されているため、すべての最新のブラウザでスムーズなゲームプレイを保証します。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

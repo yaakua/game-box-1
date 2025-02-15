@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "Chakram Master",
+    "slogan": "Maîtrisez l'art du Chakram!",
+    "description": "Chakram Master est un jeu d'action décontracté où la précision et la stratégie sont essentielles! Visez votre chakram, jetez-le pour découper les ennemis, et téléportez-vous à sa position en cliquant une seconde fois ou lorsqu'il cesse de rebondir. Déplacez-vous, esquivez et planifiez vos lancers limités avec soin pour éliminer les ennemis et maîtriser l'art du chakram. Pouvez-vous devenir le Maître Chakram ultime?(Chakram Master)",
+    "Loading": {
+      "title": "Chargement de Chakram Master..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer À",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Chakram Master",
+      "description": "Chakram Master est un jeu physique amusant. Jouez-y directement dans votre navigateur, gratuitement. Le jeu est disponible en tant que jeu débloqué. Cette page possède une section de contrôles pour vous aider à commencer. De cette façon, il est facile de voir comment jouer au jeu. Le jeu est créé avec la technologie HTML5 pour fonctionner sans problème dans tous les navigateurs modernes. Le jeu peut être joué en plein écran. En plus de jouer à Chakram Master dans votre navigateur, vous pouvez également installer l'application Chakram Master sur votre appareil Android.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers!",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chakram Master",
+      "whatIsTitle": "Qu'est-ce que Chakram Master?",
+      "whatIsDescription": "Chakram Master est un jeu d'action décontracté où la précision et la stratégie sont essentielles! Visez votre chakram, jetez-le pour découper les ennemis, et téléportez-vous à sa position en cliquant une seconde fois ou lorsqu'il cesse de rebondir. Déplacez-vous, esquivez et planifiez vos lancers limités avec soin pour éliminer les ennemis et maîtriser l'art du chakram.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Faites glisser le bouton gauche de la souris pour viser et relâchez-le pour lancer le chakram.",
+      "howToPlayStep2": "Téléportez-vous à la position du chakram en cliquant une seconde fois ou lorsqu'il cesse de rebondir.",
+      "howToPlayStep3": "Déplacez-vous, esquivez et planifiez vos lancers limités avec soin pour éliminer les ennemis.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Précision et Stratégie",
+      "feature1Description": "Visez et lancez votre chakram avec précision pour découper les ennemis.",
+      "feature2Title": "Téléportation",
+      "feature2Description": "Téléportez-vous à la position du chakram en cliquant une seconde fois ou lorsqu'il cesse de rebondir.",
+      "feature3Title": "Mode plein écran",
+      "feature3Description": "Jouez à Chakram Master en mode plein écran pour une expérience immersive.",
+      "feature4Title": "Technologie HTML5",
+      "feature4Description": "Chakram Master est conçu avec la technologie HTML5, garantissant une fluidité de jeu dans tous les navigateurs modernes."
+    },
+    "HomeFAQs": {
+      "title": "Foire aux questions"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

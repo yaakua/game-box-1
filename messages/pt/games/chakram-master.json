@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "Mestre do Chakram",
+    "slogan": "Domine a Arte do Chakram!",
+    "description": "Chakram Master é um jogo de ação casual onde precisão e estratégia são fundamentais! Mire seu chakram, lance-o para cortar os inimigos e teletransporte-se para sua localização com um segundo clique ou quando ele parar de pular. Mova-se, esquive-se e planeje cuidadosamente seus lançamentos limitados para eliminar os inimigos e dominar a arte do chakram. Você pode se tornar o Mestre do Chakram?",
+    "Loading": {
+      "title": "Carregando Mestre do Chakram..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criar em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Mestre do Chakram",
+      "description": "Chakram Master é um divertido jogo de física. Jogue diretamente no seu navegador, gratuitamente. O jogo está disponível como um jogo desbloqueado. Esta página possui uma seção de controles para começar. Desta forma, é fácil ver como jogar o jogo. O jogo é feito com tecnologia HTML5 para funcionar sem problemas em todos os navegadores modernos. O jogo pode ser jogado em tela cheia. Além de jogar Chakram Master no seu navegador, também pode instalar o aplicativo Chakram Master no seu dispositivo Android.",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Mestre do Chakram",
+      "whatIsTitle": "O que é Chakram Master?",
+      "whatIsDescription": "Chakram Master é um jogo de ação casual onde precisão e estratégia são fundamentais! Mire seu chakram, lance-o para cortar os inimigos e teletransporte-se para sua localização com um segundo clique ou quando ele parar de pular. Mova-se, esquive-se e planeje cuidadosamente seus lançamentos limitados para eliminar os inimigos e dominar a arte do chakram.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Arraste o botão esquerdo do mouse para mirar e solte para lançar o chakram.",
+      "howToPlayStep2": "Teletransporte-se para a localização do chakram com um segundo clique ou quando ele parar de pular.",
+      "howToPlayStep3": "Mova-se, esquive-se e planeje cuidadosamente seus lançamentos limitados para eliminar os inimigos.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Precisão e Estratégia",
+      "feature1Description": "Mire e lance seu chakram com precisão para cortar os inimigos.",
+      "feature2Title": "Teletransporte",
+      "feature2Description": "Teletransporte-se para a localização do chakram com um segundo clique ou quando ele parar de pular.",
+      "feature3Title": "Modo Tela Cheia",
+      "feature3Description": "Jogue Chakram Master em modo tela cheia para uma experiência imersiva.",
+      "feature4Title": "Tecnologia HTML5",
+      "feature4Description": "Chakram Master é construído com tecnologia HTML5, garantindo um jogo suave em todos os navegadores modernos."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

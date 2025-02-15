@@ -1,0 +1,117 @@
+{
+  "name": "Chakram Master",
+  "pagePath": "/games/chakram-master",
+  "pageName": "chakram-master",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://games.crazygames.com/en_US/chakram-master/index.html?aaConfigcatTest=false&v=1.321",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PixelPusha",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PixelPusha.png",
+      "content": "Chakram Master is surprisingly addictive! I love the physics and the strategy involved. Simple but super fun!"
+    },
+    {
+      "author": "GameGeekGirl",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/GameGeekGirl.png",
+      "content": "OMG, Chakram Master is my new obsession! Slicing through enemies with the chakram is so satisfying. Highly recommend!"
+    },
+    {
+      "author": "XtremeGamerX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/XtremeGamerX.png",
+      "content": "Chakram Master is lit! The teleporting mechanic adds a cool twist. Gotta master those throws, tho!"
+    },
+    {
+      "author": "IndieLover88",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/IndieLover88.png",
+      "content": "Chakram Master is a great indie gem. The controls are smooth, and the gameplay is engaging. Definitely worth checking out!"
+    },
+    {
+      "author": "TacticalTitan",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/TacticalTitan.png",
+      "content": "Chakram Master requires some serious planning. I love the challenge of clearing levels with limited throws. A good brain teaser!"
+    },
+    {
+      "author": "CasualKing",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CasualKing.png",
+      "content": "Just a chill game to play in my free time. Chakram Master is easy to pick up, but hard to master. Perfect for casual gamers like me!"
+    },
+    {
+      "author": "MobileMastery",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/MobileMastery.png",
+      "content": "Chakram Master runs great on my phone! The touch controls are intuitive, and the gameplay is perfect for on-the-go fun."
+    },
+    {
+      "author": "PhysicsFanatic",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PhysicsFanatic.png",
+      "content": "The physics in Chakram Master are really well done. It's so much fun to experiment with different angles and see how the chakram bounces around."
+    },
+    {
+      "author": "ViseronFan",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ViseronFan.png",
+      "content": "Another great game from Viseron! Chakram Master is simple, polished, and highly enjoyable. Keep up the good work!"
+    },
+    {
+      "author": "ArcadeAddict",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ArcadeAddict.png",
+      "content": "Chakram Master gives me old-school arcade vibes. The gameplay is fast-paced and addictive. A must-play for arcade fans!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/games/2025-02-15/images/1739623661751-z04q6n.com/knife-io_16x9/20250211105952/knife-io_16x9-cover",
+  "page_path": "/games/chakram-master",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "customizeFeatures": true,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "createdTime": "2025-02-15 20:47:42"
+}

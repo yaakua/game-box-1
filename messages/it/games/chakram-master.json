@@ -1,0 +1,77 @@
+{
+  "chakram-master": {
+    "title": "Chakram Master",
+    "slogan": "Padroneggia l'Arte del Chakram!",
+    "description": "Chakram Master è un gioco d'azione casual in cui precisione e strategia sono fondamentali! Mira al tuo chakram, lancialo per squarciare i nemici e teletrasportati alla sua posizione con un secondo clic o quando smette di rimbalzare. Muoviti, schivaci e pianifica attentamente i tuoi lanci limitati per eliminare i nemici e padroneggiare l'arte del chakram. Riuscirai a diventare l'ultimo Chakram Master?(Chakram Master)",
+    "Loading": {
+      "title": "Caricamento di Chakram Master..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Link amichevoli",
+      "articleList": "Lista articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Chakram Master",
+      "description": "Chakram Master è un divertente gioco di fisica. Giocalo direttamente nel tuo browser, gratuitamente. Il gioco è disponibile come gioco non bloccato. Questa pagina ha una sezione di controlli per iniziare. In questo modo, è facile vedere come giocare al gioco. Il gioco è realizzato con tecnologia HTML5 per funzionare senza problemi in tutti i browser moderni. Il gioco può essere giocato a schermo intero. Oltre a giocare a Chakram Master nel tuo browser, puoi anche installare l'app Chakram Master sul tuo dispositivo Android.",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Chakram Master",
+      "whatIsTitle": "Cos'è Chakram Master?",
+      "whatIsDescription": "Chakram Master è un gioco d'azione casual in cui precisione e strategia sono fondamentali! Mira al tuo chakram, lancialo per squarciare i nemici e teletrasportati alla sua posizione con un secondo clic o quando smette di rimbalzare. Muoviti, schivaci e pianifica attentamente i tuoi lanci limitati per eliminare i nemici e padroneggiare l'arte del chakram.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Trascina il pulsante sinistro del mouse per mirare e rilascialo per lanciare il chakram.",
+      "howToPlayStep2": "Teletrasportati alla posizione del chakram con un secondo clic o quando smette di rimbalzare.",
+      "howToPlayStep3": "Muoviti, schivaci e pianifica attentamente i tuoi lanci limitati per eliminare i nemici.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Precisione e strategia",
+      "feature1Description": "Mira e lancia il tuo chakram con precisione per squarciare i nemici.",
+      "feature2Title": "Teletrasporto",
+      "feature2Description": "Teletrasportati alla posizione del chakram con un secondo clic o quando smette di rimbalzare.",
+      "feature3Title": "Modalità schermo intero",
+      "feature3Description": "Gioca a Chakram Master in modalità schermo intero per un'esperienza immersiva.",
+      "feature4Title": "Tecnologia HTML5",
+      "feature4Description": "Chakram Master è costruito con la tecnologia HTML5, garantendo un gameplay fluido in tutti i browser moderni."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}
