@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "Heroes Assemble",
+    "slogan": "Bersatu para pahlawan legendaris lintas zaman!",
+    "description": "Heroes Assemble adalah petualangan penuh strategi di mana Anda menyatukan para pahlawan legendaris lintas zaman. Ciptakan strategi unik dengan memasangkan mereka dengan hewan peliharaan yang menggemaskan dan bertenaga. Jelajahi ruang bawah tanah yang tak terduga dengan elemen Rogue-like untuk kejutan yang tak ada habisnya. Tantang diri Anda dengan mode menegangkan seperti pertarungan bos, arena, aliansi, dan banyak lagi. Pilihan Anda membentuk setiap momen epik!",
+    "Loading": {
+      "title": "Memuat Heroes Assemble, mohon tunggu..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Buat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Syarat dan Ketentuan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Berikutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Heroes Assemble",
+      "description": "Alami petualangan penuh strategi terbaik dalam Heroes Assemble. Satukan pahlawan legendaris, ciptakan strategi unik, dan jelajahi ruang bawah tanah yang tak terduga untuk kejutan tanpa henti!",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heroes Assemble",
+      "whatIsTitle": "Apa itu Heroes Assemble?",
+      "whatIsDescription": "Heroes Assemble adalah petualangan penuh strategi di mana Anda menyatukan para pahlawan legendaris lintas zaman. Ciptakan strategi unik dengan memasangkan mereka dengan hewan peliharaan yang menggemaskan dan bertenaga. Jelajahi ruang bawah tanah yang tak terduga dengan elemen Rogue-like untuk kejutan yang tak ada habisnya.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Kumpulkan pahlawan dan hewan peliharaan untuk membangun tim yang kuat.",
+      "howToPlayStep2": "Tantang level, jelajahi ruang bawah tanah, dan ikuti kompetisi.",
+      "howToPlayStep3": "Gunakan strategi dan manajemen sumber daya untuk menyelesaikan berbagai tugas dan petualangan.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Pahlawan Legendaris",
+      "feature1Description": "Satukan pahlawan dari berbagai zaman untuk menciptakan tim terbaik.",
+      "feature2Title": "Hewan Peliharaan Bertenaga",
+      "feature2Description": "Pasangkan pahlawan Anda dengan hewan peliharaan yang menggemaskan namun bertenaga untuk strategi unik.",
+      "feature3Title": "Ruang Bawah Tanah yang Tak Terduga",
+      "feature3Description": "Jelajahi ruang bawah tanah dengan elemen Rogue-like untuk kejutan yang tak ada habisnya.",
+      "feature4Title": "Mode Menarik",
+      "feature4Description": "Tantang diri Anda dengan pertarungan bos, arena, aliansi, dan banyak lagi."
+    },
+    "HomeFAQs": {
+      "title": "Pertanyaan Umum"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Selengkapnya",
+      "page": "Halaman"
+    }
+  }
+}

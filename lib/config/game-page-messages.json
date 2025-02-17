@@ -1,56 +1,74 @@
 {
   "en": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "zh-CN": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "es": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "fr": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "bn": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "ru": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "pt": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "pt-BR": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "id": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "de": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "ja": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "tr": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "vi": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "th": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "ko": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "it": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "uk": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ],
   "zh-TW": [
-    "/games/chakram-master.json"
+    "/games/chakram-master.json",
+    "/games/heroes-assemble.json"
   ]
 }

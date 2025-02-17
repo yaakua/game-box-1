@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "Heróis Reunidos",
+    "slogan": "Una heróis lendários de diferentes épocas!",
+    "description": "Heróis Reunidos é uma aventura repleta de estratégias, onde você une heróis lendários de diferentes eras. Crie estratégias únicas combinando-os com animais de estimação adoráveis e poderosos. Mergulhe em masmorras imprevisíveis com elementos rogue-like para surpresas infinitas. Desafie-se com emocionantes modos como batalhas de chefes, arenas, alianças e muito mais. Suas escolhas moldam cada momento épico!(Heroes Assemble)",
+    "Loading": {
+      "title": "Carregando Heróis Reunidos, aguarde..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Heróis Reunidos",
+      "description": "Experimente a aventura definitiva repleta de estratégias em Heróis Reunidos. Una heróis lendários, crie estratégias únicas e mergulhe em masmorras imprevisíveis para surpresas infinitas!",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heróis Reunidos",
+      "whatIsTitle": "O que é Heróis Reunidos?",
+      "whatIsDescription": "Heróis Reunidos é uma aventura repleta de estratégias, onde você une heróis lendários de diferentes épocas. Crie estratégias únicas combinando-os com animais de estimação adoráveis e poderosos. Mergulhe em masmorras imprevisíveis com elementos rogue-like para surpresas infinitas.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Colete heróis e animais de estimação para construir uma equipe poderosa.",
+      "howToPlayStep2": "Desafie níveis, explore masmorras e participe de competições.",
+      "howToPlayStep3": "Use estratégia e gerenciamento de recursos para completar várias tarefas e aventuras.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Heróis Lendários",
+      "feature1Description": "Una heróis de diferentes épocas para criar a equipe definitiva.",
+      "feature2Title": "Animais de Estimação Poderosos",
+      "feature2Description": "Combine seus heróis com animais de estimação adoráveis e poderosos para estratégias únicas.",
+      "feature3Title": "Masmorras Imprevisíveis",
+      "feature3Description": "Mergulhe em masmorras com elementos rogue-like para surpresas infinitas.",
+      "feature4Title": "Modos Empolgantes",
+      "feature4Description": "Desafie-se com batalhas de chefes, arenas, alianças e muito mais."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

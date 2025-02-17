@@ -3,21 +3,28 @@
     "title": "Kotak Game",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "Kategori Permainan",
+    "category": "Kotak Game",
     "visible": true
   },
   {
     "title": "Master Chakram",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739623661751-z04q6n.com/knife-io_16x9/20250211105952/knife-io_16x9-cover",
     "url": "/games/chakram-master",
-    "category": "Kategori Permainan",
+    "category": "Master Chakram",
     "visible": true
   },
   {
-    "title": "Super Tupai Penembak",
+    "title": "Para Penyelamat",
+    "cover": "https://public-image.fafafa.ai/games/2025-02-17/images/1739764540133-ixsbl.avif",
+    "url": "/games/heroes-assemble",
+    "category": "Para Penyelamat",
+    "visible": true
+  },
+  {
+    "title": "Super Squirrel Blaster",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739600368137-igd9xs.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover",
     "url": "/games/super-squirrel-blaster",
-    "category": "Kategori Permainan",
+    "category": "Super Squirrel Blaster",
     "visible": true
   }
 ]

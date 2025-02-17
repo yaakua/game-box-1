@@ -1,0 +1,120 @@
+{
+  "name": "Heroes Assemble",
+  "pagePath": "/games/heroes-assemble",
+  "pageName": "heroes-assemble",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.crazygames.com/embed/heroes-assemble",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "GameMaster77",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/GameMaster77.png",
+      "content": "OMG, Heroes Assemble is totally addictive! The hero combos are insane, and those pets are just too cute. I'm hooked!"
+    },
+    {
+      "author": "DungeonDude88",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/DungeonDude88.png",
+      "content": "I'm loving the Rogue-like dungeons in Heroes Assemble. Never know what's coming next, and the loot is awesome! Definitely worth checking out."
+    },
+    {
+      "author": "StrategySage",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StrategySage.png",
+      "content": "This game requires some serious strategy, which I appreciate. Pairing the right heroes and pets is key. Anyone got any good team comps to share?"
+    },
+    {
+      "author": "BossBattler9000",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/BossBattler9000.png",
+      "content": "The boss battles in Heroes Assemble are intense! They really test your strategy and team building. Managed to beat the fire boss last night, feels good man!"
+    },
+    {
+      "author": "ArenaAddict",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ArenaAddict.png",
+      "content": "Been grinding the arena in Heroes Assemble all day. So competitive! Trying to climb the leaderboard, wish me luck!"
+    },
+    {
+      "author": "AllianceAlly",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/AllianceAlly.png",
+      "content": "The alliance system is great! Been working with my guild to take down some tough challenges. Teamwork makes the dream work! #HeroesAssembleFam"
+    },
+    {
+      "author": "LootLover24",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LootLover24.png",
+      "content": "OMG the loot in this game is AMAZING! So many cool things to collect and upgrade. It's like Christmas everyday!"
+    },
+    {
+      "author": "PetPowerUp",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PetPowerUp.png",
+      "content": "Don't underestimate the power of those pets! They can really turn the tide in battle. Gotta catch 'em all! <3 Heroes Assemble"
+    },
+    {
+      "author": "ResourcefulGamerGal",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/ResourcefulGamerGal.png",
+      "content": "Resource management is key in Heroes Assemble. Gotta grind those dungeons and events to get the materials you need. Worth it though!"
+    },
+    {
+      "author": "EpicAdventurer",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/EpicAdventurer.png",
+      "content": "Heroes Assemble is an epic adventure! So much to do, so many heroes to collect. Can't wait to see what's next! Highly recommend!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/games/2025-02-17/images/1739764540133-ixsbl.avif",
+  "page_path": "/games/heroes-assemble",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "customizeFeatures": true,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "categories": [
+    "Featured Games"
+  ],
+  "createdTime": "2025-02-17 11:55:42"
+}

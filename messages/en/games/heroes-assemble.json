@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "Heroes Assemble",
+    "slogan": "Unite legendary heroes across eras!",
+    "description": "Heroes Assemble is a strategy-packed adventure where you unite legendary heroes across eras. Craft unique strategies by pairing them with adorable, powerful pets. Dive into unpredictable dungeons with Rogue-like elements for endless surprises. Challenge yourself with thrilling modes like boss battles, arenas, alliances, and more. Your choices shape every epic moment!",
+    "Loading": {
+      "title": "Loading Heroes Assemble, please wait..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Heroes Assemble",
+      "description": "Experience the ultimate strategy-packed adventure in Heroes Assemble. Unite legendary heroes, craft unique strategies, and dive into unpredictable dungeons for endless surprises!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heroes Assemble",
+      "whatIsTitle": "What is Heroes Assemble?",
+      "whatIsDescription": "Heroes Assemble is a strategy-packed adventure where you unite legendary heroes across eras. Craft unique strategies by pairing them with adorable, powerful pets. Dive into unpredictable dungeons with Rogue-like elements for endless surprises.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Collect heroes and pets to build a powerful team.",
+      "howToPlayStep2": "Challenge levels, explore dungeons, and participate in competitions.",
+      "howToPlayStep3": "Use strategy and resource management to complete various tasks and adventures.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Legendary Heroes",
+      "feature1Description": "Unite heroes from different eras to create the ultimate team.",
+      "feature2Title": "Powerful Pets",
+      "feature2Description": "Pair your heroes with adorable yet powerful pets for unique strategies.",
+      "feature3Title": "Unpredictable Dungeons",
+      "feature3Description": "Dive into dungeons with Rogue-like elements for endless surprises.",
+      "feature4Title": "Thrilling Modes",
+      "feature4Description": "Challenge yourself with boss battles, arenas, alliances, and more."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

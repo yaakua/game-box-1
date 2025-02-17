@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "ヒーローを集結",
+    "slogan": "時代を超えた伝説のヒーローを結集！",
+    "description": "『ヒーローを集結』は、時代を超えた伝説のヒーローを結集する、戦略満載のアドベンチャーゲームです。愛らしい強力なペットとヒーローを組み合わせ、独自の戦略を練り上げてください。ローグライク要素のある予測不能なダンジョンへ没頭し、無限の驚きを体験してください。ボス戦、アリーナ、同盟など、刺激的なモードに挑戦し、あなたの選択が、あらゆる壮大な瞬間を形作ります！(Heroes Assemble)",
+    "Loading": {
+      "title": "ヒーローを集結を読み込み中…、しばらくお待ちください..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ヒーローを集結",
+      "description": "『ヒーローを集結』で、究極の戦略アドベンチャーを体験してください。伝説のヒーローを結集し、独自の戦略を練り、予測不能なダンジョンを探検して、無限の驚きを味わってください！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ヒーローを集結",
+      "whatIsTitle": "ヒーローを集結とは？",
+      "whatIsDescription": "『ヒーローを集結』は、時代を超えた伝説のヒーローを結集する、戦略満載のアドベンチャーゲームです。愛らしい強力なペットとヒーローを組み合わせ、独自の戦略を練り上げてください。ローグライク要素のある予測不能なダンジョンへ没頭し、無限の驚きを体験してください。(Heroes Assemble)",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "強力なチームを構築するために、ヒーローとペットを集めてください。",
+      "howToPlayStep2": "レベルに挑戦し、ダンジョンを探検し、競争に参加してください。",
+      "howToPlayStep3": "様々なタスクや冒険を完了するために、戦略と資源管理を活用してください。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "伝説のヒーロー",
+      "feature1Description": "様々な時代からのヒーローを結集して、究極のチームを作りましょう。",
+      "feature2Title": "強力なペット",
+      "feature2Description": "愛らしいながらも強力なペットとヒーローを組み合わせ、独自の戦略を立てましょう。",
+      "feature3Title": "予測不能なダンジョン",
+      "feature3Description": "ローグライク要素のあるダンジョンに没頭し、無限の驚きを体験してください。",
+      "feature4Title": "刺激的なモード",
+      "feature4Description": "ボス戦、アリーナ、同盟など、様々なモードに挑戦してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ情報"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリー",
+      "noCategories": "カテゴリーが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

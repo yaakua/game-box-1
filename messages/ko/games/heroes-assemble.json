@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "영웅 집합",
+    "slogan": "시대를 초월한 전설적인 영웅들을 하나로!",
+    "description": "영웅 집합은 여러 시대의 전설적인 영웅들을 하나로 모아 전략적인 모험을 떠나는 게임입니다. 귀여우면서도 강력한 펫과 영웅을 조합하여 독창적인 전략을 짜보세요. 로그라이크 요소가 가미된 예측 불가능한 던전을 탐험하며 끊임없는 놀라움을 경험하세요. 보스전, 아레나, 연합 등 다채로운 흥미로운 모드로 도전해보세요. 여러분의 선택은 매 순간의 웅장한 순간을 만들어갈 것입니다!(Heroes Assemble)",
+    "Loading": {
+      "title": "영웅 집합 로딩 중...잠시만 기다려주세요..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "컨텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "영웅 집합",
+      "description": "영웅 집합에서 최고의 전략 모험을 경험하세요. 전설적인 영웅들을 하나로 통합하고, 독창적인 전략을 세우며, 예측 불가능한 던전을 탐험하여 끊임없는 놀라움을 경험하세요!(Heroes Assemble)",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "영웅 집합",
+      "whatIsTitle": "영웅 집합이란 무엇인가요?",
+      "whatIsDescription": "영웅 집합은 여러 시대의 전설적인 영웅들을 하나로 모아 전략적인 모험을 떠나는 게임입니다. 귀여우면서도 강력한 펫과 영웅을 조합하여 독창적인 전략을 짜보세요. 로그라이크 요소가 가미된 예측 불가능한 던전을 탐험하며 끊임없는 놀라움을 경험하세요.(Heroes Assemble)",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "영웅과 펫을 수집하여 강력한 팀을 구성하세요.",
+      "howToPlayStep2": "레벨을 공략하고, 던전을 탐험하고, 경쟁에 참여하세요.",
+      "howToPlayStep3": "전략과 자원 관리를 활용하여 다양한 임무와 모험을 완료하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "전설적인 영웅",
+      "feature1Description": "다양한 시대의 영웅들을 하나로 모아 최고의 팀을 구성하세요.",
+      "feature2Title": "강력한 펫",
+      "feature2Description": "귀엽지만 강력한 펫과 영웅을 조합하여 독창적인 전략을 구사하세요.",
+      "feature3Title": "예측 불가능한 던전",
+      "feature3Description": "로그라이크 요소가 가미된 던전을 탐험하며 끊임없는 놀라움을 경험하세요.",
+      "feature4Title": "짜릿한 모드",
+      "feature4Description": "보스전, 아레나, 연합 등 다양한 모드로 도전해보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

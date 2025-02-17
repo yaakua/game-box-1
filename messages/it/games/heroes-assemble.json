@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "Heroes Assemble",
+    "slogan": "Uniti i leggendari eroi attraverso le epoche!",
+    "description": "Heroes Assemble è un'avventura strategica in cui unisci leggendari eroi di epoche diverse. Crea strategie uniche abbinandoli a adorabili e potenti animali domestici. Immergiti in caverne imprevedibili con elementi Rogue-like per sorprese infinite. Sfida te stesso con emozionanti modalità come battaglie contro boss, arene, alleanze e altro ancora. Le tue scelte plasmano ogni momento epico!(Heroes Assemble)",
+    "Loading": {
+      "title": "Caricamento di Heroes Assemble, per favore attendi..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Crea in",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti amichevoli",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Avanti",
+      "previous": "Precendente"
+    },
+    "HomeIframe": {
+      "title": "Heroes Assemble",
+      "description": "Vivi l'avventura strategica definitiva in Heroes Assemble. Unisci leggendari eroi, crea strategie uniche e immergiti in caverne imprevedibili per sorprese infinite!",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heroes Assemble",
+      "whatIsTitle": "Cos'è Heroes Assemble?",
+      "whatIsDescription": "Heroes Assemble è un'avventura strategica in cui unisci leggendari eroi di epoche diverse. Crea strategie uniche abbinandoli a adorabili e potenti animali domestici. Immergiti in caverne imprevedibili con elementi Rogue-like per sorprese infinite.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Colleziona eroi e animali domestici per creare una squadra potente.",
+      "howToPlayStep2": "Sfida livelli, esplora caverne e partecipa a competizioni.",
+      "howToPlayStep3": "Utilizza la strategia e la gestione delle risorse per completare vari compiti e avventure.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Eroi leggendari",
+      "feature1Description": "Unisci eroi di diverse epoche per creare la squadra definitiva.",
+      "feature2Title": "Animali domestici potenti",
+      "feature2Description": "Abbina i tuoi eroi ad adorabili e potenti animali domestici per strategie uniche.",
+      "feature3Title": "Caverne imprevedibili",
+      "feature3Description": "Immergiti in caverne con elementi Rogue-like per sorprese infinite.",
+      "feature4Title": "Modalità emozionanti",
+      "feature4Description": "Sfida te stesso con battaglie contro boss, arene, alleanze e altro ancora."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

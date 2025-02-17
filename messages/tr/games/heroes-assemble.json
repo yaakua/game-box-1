@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "Kahramanlar Birleşir",
+    "slogan": "Çağlar boyunca efsanevi kahramanları birleştirin!",
+    "description": "Kahramanlar Birleşir, efsanevi kahramanları farklı dönemlerden bir araya getirdiğiniz strateji dolu bir macera oyunudur.  Sevimli ve güçlü evcil hayvanlarla eşleştirerek benzersiz stratejiler geliştirin.  Sonsuz sürprizler için rastgele öğeler içeren tahmin edilemez zindanlara dalın. Patron savaşları, arena, ittifaklar ve daha fazlası gibi heyecan verici modlarla kendinizi deneyin. Seçimlerinizi her epik anı şekillendirin!(Heroes Assemble)",
+    "Loading": {
+      "title": "Kahramanlar Birleşir yükleniyor, lütfen bekleyin..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Kahramanlar Birleşir",
+      "description": "Kahramanlar Birleşir oyununda en son strateji dolu maceraya dalın. Efsanevi kahramanları birleştirin, benzersiz stratejiler geliştirin ve sonsuz sürprizler için tahmin edilemez zindanlara dalın!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Kahramanlar Birleşir",
+      "whatIsTitle": "Kahramanlar Birleşir nedir?",
+      "whatIsDescription": "Kahramanlar Birleşir, efsanevi kahramanları farklı dönemlerden bir araya getirdiğiniz strateji dolu bir macera oyunudur.  Sevimli ve güçlü evcil hayvanlarla eşleştirerek benzersiz stratejiler geliştirin.  Sonsuz sürprizler için rastgele öğeler içeren tahmin edilemez zindanlara dalın.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Güçlü bir takım oluşturmak için kahramanları ve evcil hayvanları toplayın.",
+      "howToPlayStep2": "Seviyeleri tamamlayın, zindanları keşfedin ve yarışmalara katılın.",
+      "howToPlayStep3": "Çeşitli görevleri ve maceraları tamamlamak için strateji ve kaynak yönetimi kullanın.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Efsanevi Kahramanlar",
+      "feature1Description": "En iyi takımı oluşturmak için farklı dönemlerden kahramanları birleştirin.",
+      "feature2Title": "Güçlü Evcil Hayvanlar",
+      "feature2Description": "Benzersiz stratejiler için kahramanlarınızı sevimli ve güçlü evcil hayvanlarla eşleştirin.",
+      "feature3Title": "Tahmin Edilemez Zindanlar",
+      "feature3Description": "Sonsuz sürprizler için rastgele öğeler içeren zindanlara dalın.",
+      "feature4Title": "Heyecan Verici Modlar",
+      "feature4Description": "Patron savaşları, arena, ittifaklar ve daha fazlasıyla kendinizi deneyin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategoriler bulunamadı",
+      "viewMore": "Daha Fazlasını Görüntüle",
+      "page": "Sayfa"
+    }
+  }
+}

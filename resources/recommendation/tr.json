@@ -3,21 +3,28 @@
     "title": "Oyun Kutusu",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "Oyun Kutusu",
+    "category": "Oyun Kutu",
     "visible": true
   },
   {
     "title": "Çakram Ustası",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739623661751-z04q6n.com/knife-io_16x9/20250211105952/knife-io_16x9-cover",
     "url": "/games/chakram-master",
-    "category": "Çakram Ustası",
+    "category": "Çakram Ustaları",
     "visible": true
   },
   {
-    "title": "Süper Sincap Patlatıcı",
+    "title": "Kahramanlar Birleş",
+    "cover": "https://public-image.fafafa.ai/games/2025-02-17/images/1739764540133-ixsbl.avif",
+    "url": "/games/heroes-assemble",
+    "category": "Kahramanlar Birleş",
+    "visible": true
+  },
+  {
+    "title": "Süper Sincap Silahçı",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739600368137-igd9xs.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover",
     "url": "/games/super-squirrel-blaster",
-    "category": "Süper Sincap Patlatıcı",
+    "category": "Süper Sincap Silahçı",
     "visible": true
   }
 ]

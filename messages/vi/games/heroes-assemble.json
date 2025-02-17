@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "Heroes Assemble (Heroes Assemble)",
+    "slogan": "Kết hợp các anh hùng huyền thoại xuyên thời đại!",
+    "description": "Heroes Assemble là một cuộc phiêu lưu đầy chiến lược nơi bạn kết hợp các anh hùng huyền thoại xuyên thời đại.  Phát triển chiến lược độc đáo bằng cách ghép nối chúng với những thú cưng đáng yêu và mạnh mẽ.  Lặn sâu vào những hang động bất ngờ với yếu tố Rogue-like để trải nghiệm bất ngờ không ngừng. Thử thách bản thân với các chế độ hấp dẫn như chiến đấu với boss, đấu trường, liên minh và nhiều hơn nữa. Sự lựa chọn của bạn định hình mọi khoảnh khắc anh hùng!",
+    "Loading": {
+      "title": "Đang tải Heroes Assemble, vui lòng chờ..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước đó"
+    },
+    "HomeIframe": {
+      "title": "Heroes Assemble (Heroes Assemble)",
+      "description": "Trải nghiệm cuộc phiêu lưu chiến lược tối thượng trong Heroes Assemble. Kết hợp các anh hùng huyền thoại, tạo ra chiến lược độc đáo và lặn sâu vào những hang động bất ngờ để có những bất ngờ không ngừng!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heroes Assemble (Heroes Assemble)",
+      "whatIsTitle": "Heroes Assemble là gì?",
+      "whatIsDescription": "Heroes Assemble là một cuộc phiêu lưu chiến lược nơi bạn kết hợp các anh hùng huyền thoại xuyên thời đại. Tạo chiến lược độc đáo bằng cách ghép nối chúng với những thú cưng đáng yêu và mạnh mẽ. Lặn sâu vào những hang động bất ngờ với yếu tố Rogue-like để khám phá những điều bất ngờ!",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Thu thập anh hùng và thú cưng để xây dựng một đội mạnh mẽ.",
+      "howToPlayStep2": "Thách thức cấp độ, khám phá hang động và tham gia các cuộc thi.",
+      "howToPlayStep3": "Sử dụng chiến lược và quản lý tài nguyên để hoàn thành các nhiệm vụ và cuộc phiêu lưu khác nhau.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Anh hùng huyền thoại",
+      "feature1Description": "Kết hợp các anh hùng từ các thời đại khác nhau để tạo nên đội hình tối thượng.",
+      "feature2Title": "Thú cưng mạnh mẽ",
+      "feature2Description": "Kết hợp anh hùng của bạn với những thú cưng đáng yêu nhưng mạnh mẽ để tạo chiến lược độc đáo.",
+      "feature3Title": "Hang động bất ngờ",
+      "feature3Description": "Lặn sâu vào hang động với các yếu tố Rogue-like để khám phá những bất ngờ không ngừng.",
+      "feature4Title": "Các chế độ hấp dẫn",
+      "feature4Description": "Thử thách bản thân với các trận chiến với boss, đấu trường, liên minh và nhiều hơn nữa."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Khuyến nghị"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Các trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Các danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

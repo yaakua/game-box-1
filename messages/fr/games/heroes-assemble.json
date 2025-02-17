@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "Heroes Assemble",
+    "slogan": "Unissez des héros légendaires à travers les époques !",
+    "description": "Heroes Assemble est une aventure riche en stratégie où vous unissez des héros légendaires à travers les époques. Créez des stratégies uniques en les jumelant avec des animaux de compagnie adorables et puissants. Plongez dans des donjons imprévisibles avec des éléments de type Rogue-like pour des surprises infinies. Mettez-vous au défi avec des modes palpitants comme les combats de boss, les arènes, les alliances et plus encore. Vos choix façonnent chaque moment épique !",
+    "Loading": {
+      "title": "Chargement de Heroes Assemble, veuillez patienter..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Heroes Assemble",
+      "description": "Découvrez l'aventure ultime riche en stratégie dans Heroes Assemble. Unissez des héros légendaires, créez des stratégies uniques et plongez dans des donjons imprévisibles pour des surprises infinies !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heroes Assemble",
+      "whatIsTitle": "Qu'est-ce que Heroes Assemble ?",
+      "whatIsDescription": "Heroes Assemble est une aventure riche en stratégie où vous unissez des héros légendaires à travers les époques. Créez des stratégies uniques en les jumelant avec des animaux de compagnie adorables et puissants. Plongez dans des donjons imprévisibles avec des éléments de type Rogue-like pour des surprises infinies.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Recueillez des héros et des animaux de compagnie pour constituer une équipe puissante.",
+      "howToPlayStep2": "Défiez les niveaux, explorez les donjons et participez aux compétitions.",
+      "howToPlayStep3": "Utilisez la stratégie et la gestion des ressources pour accomplir diverses tâches et aventures.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Héros légendaires",
+      "feature1Description": "Unissez des héros de différentes époques pour créer l'équipe ultime.",
+      "feature2Title": "Animaux de compagnie puissants",
+      "feature2Description": "Jumelez vos héros avec des animaux de compagnie adorables mais puissants pour des stratégies uniques.",
+      "feature3Title": "Donjons imprévisibles",
+      "feature3Description": "Plongez dans des donjons avec des éléments de type Rogue-like pour des surprises infinies.",
+      "feature4Title": "Modes palpitants",
+      "feature4Description": "Défiez-vous avec des combats de boss, des arènes, des alliances et plus encore."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

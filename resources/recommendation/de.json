@@ -1,23 +1,30 @@
 [
   {
-    "title": "Spielbox",
+    "title": "Spielkasten",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "",
+    "category": "Spielkasten",
     "visible": true
   },
   {
     "title": "Chakram-Meister",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739623661751-z04q6n.com/knife-io_16x9/20250211105952/knife-io_16x9-cover",
     "url": "/games/chakram-master",
-    "category": "",
+    "category": "Chakram-Meister",
     "visible": true
   },
   {
-    "title": "Super Eichhörnchen-Blaster",
+    "title": "Helden versammeln",
+    "cover": "https://public-image.fafafa.ai/games/2025-02-17/images/1739764540133-ixsbl.avif",
+    "url": "/games/heroes-assemble",
+    "category": "Helden versammeln",
+    "visible": true
+  },
+  {
+    "title": "Super Eichhörnchen-Shooter",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739600368137-igd9xs.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover",
     "url": "/games/super-squirrel-blaster",
-    "category": "",
+    "category": "Super Eichhörnchen-Shooter",
     "visible": true
   }
 ]

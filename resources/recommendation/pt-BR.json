@@ -1,23 +1,30 @@
 [
   {
-    "title": "Caixa de Jogos (Game Box)",
+    "title": "Caixa de Jogos",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "Caixa de Jogos",
     "visible": true
   },
   {
-    "title": "Mestre do Chakram (Chakram Master)",
+    "title": "Mestre Chakram",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739623661751-z04q6n.com/knife-io_16x9/20250211105952/knife-io_16x9-cover",
     "url": "/games/chakram-master",
-    "category": "Ação",
+    "category": "Mestre Chakram",
     "visible": true
   },
   {
-    "title": "Super Esquadrão de Esquilo (Super Squirrel Blaster )",
+    "title": "Heróis Reunidos",
+    "cover": "https://public-image.fafafa.ai/games/2025-02-17/images/1739764540133-ixsbl.avif",
+    "url": "/games/heroes-assemble",
+    "category": "Heróis Reunidos",
+    "visible": true
+  },
+  {
+    "title": "Super Esquadrão de Squirles",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739600368137-igd9xs.com/no-pain-no-gain---ragdoll-sandbox_16x9/20240823041948/no-pain-no-gain---ragdoll-sandbox_16x9-cover",
     "url": "/games/super-squirrel-blaster",
-    "category": "Ação",
+    "category": "Super Esquadrão de Squirles",
     "visible": true
   }
 ]

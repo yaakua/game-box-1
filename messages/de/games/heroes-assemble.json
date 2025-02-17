@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "Heroes Assemble",
+    "slogan": "Vereint legendäre Helden über die Epochen hinweg!",
+    "description": "Heroes Assemble ist ein strategiegeladenes Abenteuer, in dem ihr legendäre Helden über die Epochen hinweg vereint. Entwickelt einzigartige Strategien, indem ihr sie mit niedlichen, mächtigen Haustieren kombiniert. Taucht in unvorhersehbare Dungeons mit Roguelike-Elementen für endlose Überraschungen ein. Fordert euch mit spannenden Modi wie Bosskämpfen, Arenen, Allianzen und mehr heraus. Eure Entscheidungen prägen jeden epischen Moment! (Heroes Assemble)",
+    "Loading": {
+      "title": "Heroes Assemble lädt, bitte warten Sie..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Zurück"
+    },
+    "HomeIframe": {
+      "title": "Heroes Assemble",
+      "description": "Erlebt das ultimative strategiegeladene Abenteuer in Heroes Assemble. Vereint legendäre Helden, entwickelt einzigartige Strategien und taucht in unvorhersehbare Dungeons für endlose Überraschungen ein!",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heroes Assemble",
+      "whatIsTitle": "Was ist Heroes Assemble?",
+      "whatIsDescription": "Heroes Assemble ist ein strategiegeladenes Abenteuer, in dem ihr legendäre Helden über die Epochen hinweg vereint. Entwickelt einzigartige Strategien, indem ihr sie mit niedlichen, mächtigen Haustieren kombiniert. Taucht in unvorhersehbare Dungeons mit Roguelike-Elementen für endlose Überraschungen ein.",
+      "howToPlayTitle": "So spielt man",
+      "howToPlayStep1": "Sammelt Helden und Haustiere, um ein mächtiges Team aufzubauen.",
+      "howToPlayStep2": "Fordert Level heraus, erkundet Dungeons und beteiligt euch an Wettbewerben.",
+      "howToPlayStep3": "Nutzen Sie Strategie und Ressourcenverwaltung, um verschiedene Aufgaben und Abenteuer zu meistern.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Legendäre Helden",
+      "feature1Description": "Vereint Helden aus verschiedenen Epochen, um das ultimative Team zu erschaffen.",
+      "feature2Title": "Mächtige Haustiere",
+      "feature2Description": "Kombiniert eure Helden mit niedlichen und mächtigen Haustieren für einzigartige Strategien.",
+      "feature3Title": "Unvorhersehbare Dungeons",
+      "feature3Description": "Taucht in Dungeons mit Roguelike-Elementen für endlose Überraschungen ein.",
+      "feature4Title": "Spannende Modi",
+      "feature4Description": "Fordert euch mit Bosskämpfen, Arenen, Allianzen und mehr heraus."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

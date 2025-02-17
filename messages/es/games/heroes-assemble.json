@@ -1,0 +1,77 @@
+{
+  "heroes-assemble": {
+    "title": "Heroes Assemble",
+    "slogan": "¡Únete a héroes legendarios a través de las eras!",
+    "description": "Heroes Assemble es una aventura llena de estrategia en la que unes héroes legendarios a través de las eras. Crea estrategias únicas combinándolos con adorables y poderosos mascotas. Sumérgete en mazmorras impredecibles con elementos rogue-like para sorpresas infinitas. ¡Ponte a prueba con emocionantes modos como batallas contra jefes, arenas, alianzas y más! ¡Tus elecciones moldean cada momento épico!",
+    "Loading": {
+      "title": "Cargando Heroes Assemble, espere..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Condiciones de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio",
+      "next": "Siguiente",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Heroes Assemble",
+      "description": "¡Experimenta la aventura definitiva llena de estrategia en Heroes Assemble! ¡Únete a héroes legendarios, crea estrategias únicas y sumérgete en mazmorras impredecibles para infinitas sorpresas!",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Heroes Assemble",
+      "whatIsTitle": "¿Qué es Heroes Assemble?",
+      "whatIsDescription": "Heroes Assemble es una aventura llena de estrategia en la que unes héroes legendarios a través de las eras. Crea estrategias únicas combinándolos con adorables y poderosos mascotas. Sumérgete en mazmorras impredecibles con elementos rogue-like para sorpresas infinitas.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Recopila héroes y mascotas para crear un equipo poderoso.",
+      "howToPlayStep2": "Desafía niveles, explora mazmorras y participa en competiciones.",
+      "howToPlayStep3": "Usa la estrategia y la gestión de recursos para completar diversas tareas y aventuras.",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Héroes Legendarios",
+      "feature1Description": "Únete a héroes de diferentes eras para crear el equipo definitivo.",
+      "feature2Title": "Mascotas Poderosas",
+      "feature2Description": "Combina a tus héroes con adorables pero poderosas mascotas para estrategias únicas.",
+      "feature3Title": "Mazmorras Impredecibles",
+      "feature3Description": "Sumérgete en mazmorras con elementos rogue-like para sorpresas infinitas.",
+      "feature4Title": "Modos emocionantes",
+      "feature4Description": "Ponte a prueba con batallas contra jefes, arenas, alianzas y más."
+    },
+    "HomeFAQs": {
+      "title": "¿Preguntas frecuentes?"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    },
+    "CategoryPage": {
+      "categories": "Categorías",
+      "noCategories": "No se encontraron categorías",
+      "viewMore": "Ver más",
+      "page": "Página"
+    }
+  }
+}
