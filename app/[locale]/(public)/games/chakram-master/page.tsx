@@ -15,7 +15,6 @@ import { SiteConfig} from '@/lib/types';
 import {siteConfig as mainConfig} from '@/lib/config/site'
 import GameRecommendationCard from '@/app/[locale]/(public)/views/GameRecommendationCard';
 import { getFeaturedContent } from '@/lib/utils/blogs';
-export const dynamic = 'force-static'
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { AppLayout } from '@/lib/components/layout/AppLayout';

@@ -42,18 +42,16 @@ export const getHomeSettings = async (locale: string) => {
         // 读取游戏配置
         const siteConfigPath = path.join(gamePath, 'config', 'config.json');
         const siteConfig = JSON.parse(fs.readFileSync(siteConfigPath, 'utf-8'));
-        
-        // 读取游戏多语言配置
-        const messagesPath = path.join(process.cwd(), 'messages', locale, 'games', `${siteConfig.pageName}.json`);
-        let gameTitle;
-        try {
-          const messages = JSON.parse(fs.readFileSync(messagesPath, 'utf-8'));
-          gameTitle = messages[siteConfig.pageName]?.title;
-        } catch {
-          // 如果找不到对应语言的配置，使用pageName作为标题
-          gameTitle = siteConfig.pageName;
-        }
-        
+          // 读取游戏多语言配置
+          const messagesPath = path.join(process.cwd(), 'messages', locale, 'games', `${siteConfig.pageName}.json`);
+          let gameTitle;
+          try {
+            const messages = JSON.parse(fs.readFileSync(messagesPath, 'utf-8'));
+            gameTitle = messages[siteConfig.pageName]?.HomeIframe?.title;
+          } catch {
+            // 如果找不到对应语言的配置，使用title作为标题
+            gameTitle = siteConfig.title;
+          }
         // 创建游戏项
         const gameItem: RecommendationItem = {
           title: gameTitle,
@@ -86,7 +84,8 @@ export const getHomeSettings = async (locale: string) => {
       // 将游戏添加到对应的分类中
       if (Array.isArray(game.config.categories)) {
         for (const obj of game.config.categories) {
-          // 根据分类名称找到英文配置表中对应的分类，通过path匹配
+          // 游戏配置当中只存放了英文的分类名称，再多语言下需要先匹配英文的分类名称找到
+          // 根据分类名称找到英文配置表中对应的分类对应的path
           const en_obj = en_settings.categories.find(c=>c.name===obj)
           const category = settings.categories.find(c => c.path === en_obj?.path);
           if (category) {

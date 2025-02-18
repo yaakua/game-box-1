@@ -1,4 +1,4 @@
-import { defaultLocale, localePrefix, locales, pathnames } from '@lib/i18n/locales';
+import { defaultLocale, localePrefix, locales, pathnames,localeDetection } from '@lib/i18n/locales';
 import { createNavigation } from 'next-intl/navigation';
 
 export const { Link, getPathname, redirect, usePathname, useRouter } = createNavigation({
@@ -6,6 +6,7 @@ export const { Link, getPathname, redirect, usePathname, useRouter } = createNav
   locales,
   pathnames,
   localePrefix,
+  localeDetection
 });
 
 export function getPathnameWithLocale(pathname: string, locale: string) {

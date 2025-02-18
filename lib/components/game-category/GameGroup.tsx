@@ -1,6 +1,6 @@
 'use client'
 import { motion } from 'framer-motion';
-import Link from 'next/link';
+import {Link} from '@/lib/i18n/navigation'
 
 type Game = {
     url: string;

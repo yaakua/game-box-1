@@ -15,7 +15,6 @@ import { SiteConfig} from '@/lib/types';
 import GameRecommendationCard from '@/app/[locale]/(public)/views/GameRecommendationCard';
 import matter from 'gray-matter';
 import { getFeaturedContent } from '@/lib/utils/blogs';
-export const dynamic = 'force-static'
 import path from 'path';
 import { fileURLToPath } from 'url';
 type Props = {

@@ -6,7 +6,7 @@ import { siteConfig } from '@/lib/config/site';
 import { getHomeSettings } from '@/lib/utils/game-box-settings';
 import GameCard from '@/lib/components/game-category/GameCard';
 import { AppLayout } from '@/lib/components/layout/AppLayout';
-import Link from 'next/link';
+import {Link} from '@/lib/i18n/navigation'
 export const dynamic = 'force-static'
 interface Props {
   params: Promise<{ locale: string; page: string[] }>;
