@@ -25,6 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     alternates: {
       languages: alternatesLanguage(''),
     },
+    
     icons: {
       icon: siteConfig.icon,
       apple: siteConfig.appleIcon,

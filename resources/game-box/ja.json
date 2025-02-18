@@ -1,0 +1,43 @@
+{
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/chakram-master",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/heroes-assemble",
+      "position": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "注目のゲーム",
+      "path": "/c/featured",
+      "pageSize": 16,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "最高のゲームを選びました！"
+    },
+    {
+      "name": "アクションゲーム",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "vertical",
+      "icon": "",
+      "description": "エキサイティングなアクションゲーム！"
+    },
+    {
+      "name": "スポーツゲーム",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "エキサイティングなスポーツゲーム！"
+    }
+  ]
+}

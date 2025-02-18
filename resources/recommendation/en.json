@@ -1,13 +1,5 @@
 [
   {
-    "title": "Game Box",
-    "cover": "/game_screenshot.webp",
-    "url": "/",
-    "category": "",
-    "visible": true,
-    "position": "all"
-  },
-  {
     "title": "Chakram Master",
     "cover": "https://public-image.fafafa.ai/games/2025-02-15/images/1739623661751-z04q6n.com/knife-io_16x9/20250211105952/knife-io_16x9-cover",
     "url": "/games/chakram-master",

@@ -114,7 +114,10 @@
   "is_sub_game": true,
   "include_available_games": true,
   "categories": [
+    "Sports Games",
+    "Action Games",
     "Featured Games"
   ],
-  "createdTime": "2025-02-17 11:55:42"
+  "createdTime": "2025-02-17 11:55:42",
+  "faqs": {}
 }

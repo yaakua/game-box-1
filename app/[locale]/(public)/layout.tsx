@@ -11,6 +11,8 @@ import { NavbarItem } from '@/lib/types';
 import { Toaster } from '@/lib/ui/components/toaster';
 import { GoogleAnalytics } from '@next/third-parties/google';
 import MicrosoftClarity from '@/lib/components/microsoft-clarity';
+import { SidebarProvider } from '@/lib/context/SidebarContext';
+
 type Props = {
   children: ReactNode;
   params: Promise<{ locale: string }>;
@@ -49,6 +51,7 @@ export default async function LocaleLayout({ children, params }: Props) {
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
       <NextUIProvider>
+      <SidebarProvider>
         <Toaster />
         <Navbar items={navbars} />
         {children}
@@ -61,6 +64,7 @@ export default async function LocaleLayout({ children, params }: Props) {
             {siteConfig.adsenseClientId && <script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${siteConfig.adsenseClientId}`} crossOrigin="anonymous"></script>}
           </>
         )}
+        </SidebarProvider>
       </NextUIProvider>
     </NextIntlClientProvider>
   );

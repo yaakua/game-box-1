@@ -1,0 +1,43 @@
+{
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/chakram-master",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/heroes-assemble",
+      "position": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "Trò chơi nổi bật",
+      "path": "/c/featured",
+      "pageSize": 16,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Chúng tôi đã chọn những trò chơi hay nhất cho bạn!"
+    },
+    {
+      "name": "Trò chơi hành động",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "vertical",
+      "icon": "",
+      "description": "Các trò chơi hành động thú vị!"
+    },
+    {
+      "name": "Trò chơi thể thao",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Các trò chơi thể thao thú vị!"
+    }
+  ]
+}

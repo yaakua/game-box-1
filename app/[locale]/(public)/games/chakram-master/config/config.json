@@ -113,5 +113,10 @@
   "color_scheme_id": "default",
   "is_sub_game": true,
   "include_available_games": true,
-  "createdTime": "2025-02-15 20:47:42"
+  "createdTime": "2025-02-15 20:47:42",
+  "categories": [
+    "Sports Games",
+    "Action Games",
+    "Featured Games"
+  ]
 }

@@ -1,11 +1,21 @@
 {
   "recommended": [
+    {
+      "visible": true,
+      "url": "/games/chakram-master",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/heroes-assemble",
+      "position": 2
+    }
   ],
   "categories": [
     {
       "name": "Featured Games",
       "path": "/c/featured",
-      "pageSize": 15,
+      "pageSize": 16,
       "backgroundColor": "#ffdde1",
       "displayStyle": "horizontal",
       "icon": "",

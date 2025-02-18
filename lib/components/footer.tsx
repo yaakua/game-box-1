@@ -6,11 +6,13 @@ import { Link as NextLink } from '@nextui-org/link';
 import { useLocale, useTranslations } from 'next-intl';
 import { NavbarItem } from '../types';
 import SocialIcons from './social-icons';
+import { useSidebar } from '@/lib/context/SidebarContext';
 
 export default function Footer({ items }: { items: NavbarItem[] }) {
   const t = useTranslations();
   const pathname = usePathname();
   const locale = useLocale();
+  const { isExpanded } = useSidebar();
   // 从pathname中移除当前locale前缀
   const cleanPathname = pathname.replace(new RegExp(`^/${locale}`), '');
   const buildLocaleLinks = (key: string, name: string) => {
@@ -29,7 +31,7 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
   };
 
   return (
-    <footer className="bg-footer border-t border-border">
+    <footer className={`bg-footer border-t border-border ${isExpanded ? 'ml-[240px]' : 'ml-[72px]'}`}>
       <div className="w-full max-w-[1480px] mx-auto py-12 px-4">
         {/* 主要内容区域 - 三列布局 */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">

@@ -128,7 +128,9 @@ export interface SiteConfig {
   // 更新时间
   updatedTime?: string | null;
   // 标签
-  tags?:string[]
+  categories?:string[]
+  // 模板类型
+  templateType?:string
 }
 
 export interface GameCategory {
@@ -145,4 +147,5 @@ export interface GameCategory {
 export interface GameBoxSettings{
   recommended: RecommendationItem[]
   categories: GameCategory[]
+  allGames: RecommendationItem[]
 } 

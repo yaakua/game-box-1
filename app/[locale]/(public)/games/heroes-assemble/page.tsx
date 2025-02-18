@@ -12,12 +12,14 @@ import SectionWrapper from '@/app/[locale]/(public)/views/SectionWrapper';
 import DownloadGame from '@/app/[locale]/(public)/views/DownloadGame';
 import siteConfig from './config/config.json';
 import { SiteConfig} from '@/lib/types';
+import {siteConfig as mainConfig} from '@/lib/config/site'
 import GameRecommendationCard from '@/app/[locale]/(public)/views/GameRecommendationCard';
-import matter from 'gray-matter';
 import { getFeaturedContent } from '@/lib/utils/blogs';
 export const dynamic = 'force-static'
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { AppLayout } from '@/lib/components/layout/AppLayout';
+import { getHomeSettings } from '@/lib/utils/game-box-settings';
 type Props = {
   params: Promise<{ locale: string }>;
 };
@@ -52,7 +54,8 @@ export default async function Page({ params }: Props) {
     const { content } = getFeaturedContent(currentDir, locale);
     features2ContentResult = content;
   }
-  return (
+
+  const PageContent = () => (
     <div className="bg-background pt-5 pb-5">
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row">
@@ -66,7 +69,6 @@ export default async function Page({ params }: Props) {
                 <FAQs locale={locale} pageName={pageName} />
                 <RelatedVideo pageName={pageName} siteConfig={siteConfig2} />
                 <Comments pageName={pageName} siteConfig={siteConfig2} />
-               
               </SectionWrapper>
             </div>
             <Recommendation locale={locale} />
@@ -79,4 +81,15 @@ export default async function Page({ params }: Props) {
       </div>
     </div>
   );
+
+  if (mainConfig.templateType === 'game-box') {
+    const settings = await getHomeSettings(locale);
+    return (
+      <AppLayout categories={settings.categories}>
+        <PageContent />
+      </AppLayout>
+    );
+  }
+
+  return <PageContent />;
 }

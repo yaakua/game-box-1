@@ -1,0 +1,43 @@
+{
+  "recommended": [
+    {
+      "visible": true,
+      "url": "/games/chakram-master",
+      "position": 1
+    },
+    {
+      "visible": true,
+      "url": "/games/heroes-assemble",
+      "position": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "বৈশিষ্ট্যযুক্ত গেমস",
+      "path": "/c/featured",
+      "pageSize": 16,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "আমরা আপনার জন্য সেরা গেমগুলি নির্বাচন করেছি!"
+    },
+    {
+      "name": "অ্যাকশন গেমস",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "vertical",
+      "icon": "",
+      "description": "উত্তেজনাপূর্ণ অ্যাকশন গেমস!"
+    },
+    {
+      "name": "স্পোর্টস গেমস",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "উত্তেজনাপূর্ণ স্পোর্টস গেমস!"
+    }
+  ]
+}
