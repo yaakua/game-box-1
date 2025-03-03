@@ -1,6 +1,6 @@
 import { PropsWithLocale, RecommendationItem } from '@/lib/types';
 import { getTranslations } from 'next-intl/server';
-import Link from 'next/link';
+import {Link} from '@/lib/i18n/navigation'
 // 游戏推荐组件(使用全局配置)
 export default async function Recommendation({ locale }: PropsWithLocale) {
   const t = await getTranslations('HomeRecommendation');

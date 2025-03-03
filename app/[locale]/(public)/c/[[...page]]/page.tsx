@@ -5,8 +5,8 @@ import { notFound } from 'next/navigation';
 import { siteConfig } from '@/lib/config/site';
 import { getHomeSettings } from '@/lib/utils/game-box-settings';
 import GameCard from '@/lib/components/game-category/GameCard';
+import Link from 'next/link';
 import { AppLayout } from '@/lib/components/layout/AppLayout';
-import {Link} from '@/lib/i18n/navigation'
 export const dynamic = 'force-static'
 interface Props {
   params: Promise<{ locale: string; page: string[] }>;
@@ -109,7 +109,6 @@ export default async function Page({ params }: Props) {
 
   if (!page || page.length === 0) {
     return (
-      <AppLayout categories={settings.categories}>
       <div className="container mx-auto px-4">
         <h1 className="text-2xl font-bold mb-4">{t('CategoryPage.categories')}</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -127,7 +126,6 @@ export default async function Page({ params }: Props) {
           <p className="text-center text-gray-500">{t('CategoryPage.noCategories')}</p>
         )}
       </div>
-      </AppLayout>
     );
   }
 
@@ -157,8 +155,8 @@ export default async function Page({ params }: Props) {
   }
 
   return (
-    <AppLayout categories={settings.categories}>
     <div className="bg-background text-foreground min-h-screen pt-5 pb-5">
+       <AppLayout categories={settings.categories}>
       <div className="container mx-auto px-4">
         <div className="flex items-center gap-4 mb-6">
           {category.icon && (
@@ -201,7 +199,7 @@ export default async function Page({ params }: Props) {
           </div>
         )}
       </div>
+      </AppLayout>
     </div>
-    </AppLayout>
   );
 }

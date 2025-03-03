@@ -46,7 +46,7 @@ export default getRequestConfig(async ({ requestLocale }) => {
   if (!locales.includes(locale as any)) {
     locale = defaultLocale;
   }
-
+ 
   let messages = messagesMap[locale as keyof typeof messagesMap];
   if (!messages) {
     console.error(`无法加载 ${locale} 的翻译文件，将使用默认语言 ${defaultLocale}`);

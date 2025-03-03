@@ -1,7 +1,7 @@
 'use client'
 import { motion, AnimatePresence } from 'framer-motion';
 import { RecommendationItem } from '@/lib/types';
-import Link from 'next/link';
+import {Link} from '@/lib/i18n/navigation'
 import React from 'react';
 type GroupedGames = {
     [key: string]: RecommendationItem[];

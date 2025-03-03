@@ -2,7 +2,7 @@
 import { SiteConfig } from "@/lib/types";
 import { useTranslations } from "next-intl";
 
-export default function PopupWindows({pageName,siteConfig}:{pageName:string|null,siteConfig:SiteConfig}) {
+export default function PopupWindows({pageName,siteConfig}:{pageName:string|null|undefined,siteConfig:SiteConfig}) {
     const prefix = pageName ? pageName + '.' : '';
     const t = useTranslations(`${prefix}HomeIframe`);
     return  <a 

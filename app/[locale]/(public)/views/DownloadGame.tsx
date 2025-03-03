@@ -7,7 +7,7 @@ import { useTranslations } from 'next-intl';
 import { FaAndroid, FaApple, FaSteam, FaWindows } from 'react-icons/fa';
 
 
-export default  function DownloadGame({pageName,siteConfig}:{pageName:string|null,siteConfig:SiteConfig}) {
+export default  function DownloadGame({pageName,siteConfig}:{pageName:string|null|undefined,siteConfig:SiteConfig}) {
   const prefix = pageName ? pageName + '.' : '';
   const t = useTranslations(`${prefix}HomeIframe`);
   if (siteConfig.gameType !== 'download') {

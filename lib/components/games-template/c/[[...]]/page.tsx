@@ -6,6 +6,7 @@ import { siteConfig } from '@/lib/config/site';
 import { getHomeSettings } from '@/lib/utils/game-box-settings';
 import GameCard from '@/lib/components/game-category/GameCard';
 import Link from 'next/link';
+import { AppLayout } from '@/lib/components/layout/AppLayout';
 export const dynamic = 'force-static'
 interface Props {
   params: Promise<{ locale: string; page: string[] }>;
@@ -155,6 +156,7 @@ export default async function Page({ params }: Props) {
 
   return (
     <div className="bg-background text-foreground min-h-screen pt-5 pb-5">
+       <AppLayout categories={settings.categories}>
       <div className="container mx-auto px-4">
         <div className="flex items-center gap-4 mb-6">
           {category.icon && (
@@ -197,6 +199,7 @@ export default async function Page({ params }: Props) {
           </div>
         )}
       </div>
+      </AppLayout>
     </div>
   );
 }

@@ -11,16 +11,20 @@ export const getHomeSettings = async (locale: string) => {
     categories: [],
     allGames: []
   };
-
+  const defaultLoclae = 'en';
+  const enSettings = (await import(`@/resources/game-box/${defaultLoclae}.json`)).default as unknown as GameBoxSettings;
   try {
     // 1. 加载基础配置
-    // 2. 加载英文配置，用于匹配游戏所属分类名称对应的分类
-    const en_settings = (await import(`@/resources/game-box/en.json`)).default as unknown as GameBoxSettings;
     try {
       settings = (await import(`@/resources/game-box/${locale}.json`)).default  as unknown as GameBoxSettings;
-    } catch(e) {
-      console.warn(`未找到 ${locale} 语言的配置,使用英文配置`,e);
-      settings = en_settings
+    } catch {
+      try{
+        // 不可直接写死en,避免编译时，因为文件不存在导致报错。而是采用动态拼接参数
+        settings = (await import(`@/resources/game-box/${defaultLoclae}.json`)).default as unknown as GameBoxSettings;
+      }catch{
+        // 非盒子游戏模板，有可能不存在这个en.json文件，避免报错
+        return settings;
+      }
     }
 
     // 2. 读取games目录下的所有游戏配置
@@ -42,16 +46,18 @@ export const getHomeSettings = async (locale: string) => {
         // 读取游戏配置
         const siteConfigPath = path.join(gamePath, 'config', 'config.json');
         const siteConfig = JSON.parse(fs.readFileSync(siteConfigPath, 'utf-8'));
-          // 读取游戏多语言配置
-          const messagesPath = path.join(process.cwd(), 'messages', locale, 'games', `${siteConfig.pageName}.json`);
-          let gameTitle;
-          try {
-            const messages = JSON.parse(fs.readFileSync(messagesPath, 'utf-8'));
-            gameTitle = messages[siteConfig.pageName]?.HomeIframe?.title;
-          } catch {
-            // 如果找不到对应语言的配置，使用title作为标题
-            gameTitle = siteConfig.title;
-          }
+        
+        // 读取游戏多语言配置
+        const messagesPath = path.join(process.cwd(), 'messages', locale, 'games', `${siteConfig.pageName}.json`);
+        let gameTitle;
+        try {
+          const messages = JSON.parse(fs.readFileSync(messagesPath, 'utf-8'));
+          gameTitle = messages[siteConfig.pageName]?.title;
+        } catch {
+          // 如果找不到对应语言的配置，使用pageName作为标题
+          gameTitle = siteConfig.pageName;
+        }
+        
         // 创建游戏项
         const gameItem: RecommendationItem = {
           title: gameTitle,
@@ -83,11 +89,10 @@ export const getHomeSettings = async (locale: string) => {
       
       // 将游戏添加到对应的分类中
       if (Array.isArray(game.config.categories)) {
-        for (const obj of game.config.categories) {
-          // 游戏配置当中只存放了英文的分类名称，再多语言下需要先匹配英文的分类名称找到
-          // 根据分类名称找到英文配置表中对应的分类对应的path
-          const en_obj = en_settings.categories.find(c=>c.name===obj)
-          const category = settings.categories.find(c => c.path === en_obj?.path);
+        for (const tag of game.config.categories) {
+          // 根据名字从英文设置当中找到对应的分类，获得分类的path与当前多语言分类的path比较
+          const enCategory = enSettings.categories.find(c => c.name === tag);
+          const category = settings.categories.find(c => c.path === enCategory?.path);
           if (category) {
             if (!category.games) {
               category.games = [];

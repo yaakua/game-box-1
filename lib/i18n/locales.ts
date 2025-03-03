@@ -80,7 +80,10 @@ export const getCurrentLocaleName = (locale: string) => {
 
 // 生成多语言的alternates
 export function alternatesLanguage(subPath: string) {
-  const path = process.env.UE_WEB_URL;
+  const path = process.env.UE_WEB_URL && !process.env.UE_WEB_URL.startsWith('https://')
+    ? `https://${process.env.UE_WEB_URL}`
+    : process.env.UE_WEB_URL;
+
   const languages: Record<string, string> = {};
   locales.forEach((lang) => {
     languages[lang] = lang === defaultLocale ? `${path}${subPath}` : `${path}/${lang}${subPath}`;

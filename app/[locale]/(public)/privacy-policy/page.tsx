@@ -59,11 +59,11 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
     const { content } = matter(Content);
 
     return (
-      <>
-        <article className="prose prose-sm md:prose-base lg:prose-lg  rounded-2xl max-w-6xl mx-auto py-10 px-4">
+      <div className="bg-background">
+        <article className="prose prose-sm md:prose-base lg:prose-lg rounded-2xl max-w-6xl mx-auto py-10 px-4">
           <MdxArticle components={components} source={content} className="max-w-full" />
         </article>
-      </>
+      </div>
     );
   } catch (error) {
     notFound();

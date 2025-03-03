@@ -9,7 +9,7 @@ const ReactPlayer = dynamic(() => import('react-player'), {
   ssr: false,
 });
 
-export default  function RelatedVideo({pageName,siteConfig}:{pageName:string|null,siteConfig:SiteConfig}) {
+export default  function RelatedVideo({pageName,siteConfig}:{pageName:string|null|undefined,siteConfig:SiteConfig}) {
   const prefix = pageName ? pageName + '.' : '';
   const t =  useTranslations(`${prefix}HomeRelatedVideo`);
   if (!siteConfig.isShowVideo) {

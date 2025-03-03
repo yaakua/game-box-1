@@ -4,7 +4,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/lib
 import { getTranslations } from 'next-intl/server';
 import { Tweet } from 'react-tweet';
 
-export default async function Comments({pageName,siteConfig}:{pageName:string|null,siteConfig:SiteConfig}) {
+export default async function Comments({pageName,siteConfig}:{pageName:string|null|undefined,siteConfig:SiteConfig}) {
   if (!siteConfig.isShowComments) {
     return <></>;
   }
@@ -30,7 +30,7 @@ export default async function Comments({pageName,siteConfig}:{pageName:string|nu
   } else {
     comments = siteConfig.comments.map((it:CommentItem, index:number) => (
       <Card key={index} className="h-full bg-card border-none">
-        <CardHeader className="md:p-6 p-4">
+        <CardHeader className="md:p-4 p-2">
           <div className="flex items-center gap-2 md:gap-4">
             <Avatar className="w-8 h-8 md:w-10 md:h-10">
               <AvatarImage src={it.avatar} alt={it.author} />
@@ -42,7 +42,7 @@ export default async function Comments({pageName,siteConfig}:{pageName:string|nu
             </div>
           </div>
         </CardHeader>
-        <CardContent className="md:p-6 p-4">
+        <CardContent className="md:p-4 p-2">
           <p className="text-muted text-sm md:text-base">{it.content}</p>
         </CardContent>
       </Card>
@@ -50,8 +50,8 @@ export default async function Comments({pageName,siteConfig}:{pageName:string|nu
   }
 
   return (
-    <section className="container mx-auto px-2 md:px-4 py-6 md:py-12">
-      <h2 className="text-2xl md:text-3xl font-bold text-center mb-6 md:mb-12">{t('title')}</h2>
+    <section className="container mx-auto md:px-4 py-6 md:py-12">
+      <h2 className="text-xl md:text-3xl font-bold text-center mb-6 md:mb-12">{t('title')}</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 md:gap-6">{comments}</div>
     </section>
   );

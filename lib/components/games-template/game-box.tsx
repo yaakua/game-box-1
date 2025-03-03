@@ -25,6 +25,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     alternates: {
       languages: alternatesLanguage(''),
     },
+    
     icons: {
       icon: siteConfig.icon,
       apple: siteConfig.appleIcon,
@@ -44,7 +45,7 @@ export default async function Page({ params }: Props) {
         {/* 推荐游戏区域 */}
         {settings.recommended.length > 0 && (
           <div className="mb-8">
-            <div className="flex flex-wrap gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {/* 将推荐游戏列表按照5个一组进行分组 */}
               {Array.from({ length: Math.ceil(settings.recommended.length / 5) }, (_, i) => {
                 const groupGames = settings.recommended.slice(i * 5, (i + 1) * 5);

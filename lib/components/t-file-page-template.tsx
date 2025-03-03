@@ -8,8 +8,10 @@ import fs from 'fs';
 import path from 'path';
 import {Link} from '@/lib/i18n/navigation';
 import {getTranslations, setRequestLocale} from 'next-intl/server';
+import {siteConfig as mainConfig} from '@/lib/config/site'
+import { AppLayout } from '@/lib/components/layout/AppLayout';
+import { getHomeSettings } from '@/lib/utils/game-box-settings';
 
-export const dynamic = 'force-static'
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -69,7 +71,8 @@ export default async function Page({params}: {params: Promise<{locale: string}>}
     }
     const {content, data: frontMatter } = matter(Content);
     const t = await getTranslations({ locale });
-    return <div className="bg-background pt-5 pb-5">
+    const PageContent = ()=>(
+      <div className="bg-background pt-5 pb-5">
       <div className="container mx-auto">
       <div className="py-2 px-4 max-w-4xl mx-auto text-foreground">
             {/* 添加面包屑导航 */}
@@ -100,6 +103,17 @@ export default async function Page({params}: {params: Promise<{locale: string}>}
         </article>
         </div>
     </div>
+    )
+    if (mainConfig.templateType === 'game-box') {
+      const settings = await getHomeSettings(locale);
+      return (
+        <AppLayout categories={settings.categories}>
+          <PageContent />
+        </AppLayout>
+      );
+    }
+  
+    return <PageContent />;
   } catch (error) {
     console.log("#### error", error);
     notFound();

@@ -62,6 +62,8 @@ export interface SiteConfig {
   slogan: string;
   // 网站域名
   domain: string
+  pageName?: string;
+  pagePath?: string;
   // 网站图标
   icon: string;
   // iframe || download || redirect

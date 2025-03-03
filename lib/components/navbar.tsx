@@ -144,7 +144,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
           >
             <img
               src={logoUrl}
-              className="h-14 w-auto rounded-xl"
+              className="h-10 md:h-14 w-auto rounded-xl"
               alt={`${t('title')} logo`}
               width={20}
               height={20}
@@ -153,7 +153,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                 console.error('Image load failed:', e);
               }}
             />
-            <div className="hidden lg:block">
+            <div>
               <p className="text-navbar-foreground/80 hover:text-navbar-foreground transition-colors">
                 {siteConfig.name as any}
               </p>
